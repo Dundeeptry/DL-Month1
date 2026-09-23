@@ -13,7 +13,11 @@ int main(){
 	}
 	string danhsach;
 	while(std::getline(mofile, danhsach)){
+		if(!danhsach.empty() && danhsach.back() == '\r'){
+			danhsach.pop_back();
+		}
 		wordList.push_back(danhsach);
 	}
 	mofile.close();
+	return 0;
 }
