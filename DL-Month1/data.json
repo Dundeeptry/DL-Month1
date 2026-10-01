@@ -1,0 +1,152 @@
+[
+  {
+    "category": "ai",
+    "words": [
+      "computer", "internet", "mobile phone", "email", "website", "online", "keyboard", "screen", "mouse", "password",
+      "video", "game", "click", "type", "battery", "camera", "message", "search", "digital", "app",
+      "software", "hardware", "network", "database", "security", "download", "connection", "update", "social media", "gadget",
+      "smart", "wireless", "laptop", "file", "folder", "memory", "program", "access", "technical", "device",
+      "algorithm", "automation", "interface", "artificial", "intelligence", "robotics", "encryption", "virtual", "reality", "processor",
+      "compatible", "innovative", "function", "storage", "prototype", "configuration", "hack", "developer", "integration", "system",
+      "cybersecurity", "infrastructure", "intuitive", "sophisticated", "scalability", "optimization", "back-end", "front-end", "protocol", "redundancy",
+      "biometric", "versatility", "streamlined", "neural", "heuristic", "immersive", "latent", "agile", "deployment", "architecture",
+      "ubiquitous", "sentient", "algorithmic bias", "singularity", "nanotechnology", "decentralization", "interoperability", "anthropomorphic", "obfuscation", "telemetry",
+      "hyper-convergence", "edge computing", "haptics", "provenance", "synthetics", "volition", "epistemological", "transhumanism", "quantum", "paradigm"
+    ]
+  },
+  {
+    "category": "art",
+    "words": [
+      "art", "music", "film", "book", "news", "photo", "radio", "tv", "story", "write",
+      "read", "watch", "sing", "paint", "color", "star", "famous", "fun", "beautiful", "show",
+      "artist", "media", "channel", "journal", "article", "interview", "opinion", "style", "performance", "design",
+      "image", "message", "culture", "creative", "popular", "social", "internet", "digital", "advert", "event",
+      "exhibition", "literature", "masterpiece", "sculpture", "aesthetics", "critic", "review", "audience", "broadcast", "publication",
+      "journalist", "documentary", "genre", "technique", "influence", "perspective", "portrayal", "censorship", "marketing", "entertainment",
+      "avant-garde", "composition", "curator", "interpretation", "manifestation", "narrative", "propaganda", "satire", "sophistication", "symbolism",
+      "subtext", "visuals", "rhetoric", "paradigm", "nuance", "eloquence", "diversity", "authenticity", "ambiguity", "abstract",
+      "anachronism", "appropriation", "connoisseur", "diatribe", "ephemeral", "iconoclasm", "juxtaposition", "minimalism", "obfuscation", "panache",
+      "pastiche", "semiotics", "surrealism", "synecdoche", "transgressive", "vernacular", "virtuoso", "zeitgeist", "aestheticism"
+    ]
+  },
+  {
+    "category": "business",
+    "words": [
+      "shop", "money", "buy", "sell", "pay", "cheap", "expensive", "price", "bank", "cash",
+      "worker", "job", "boss", "office", "customer", "company", "product", "cost", "advert", "sale",
+      "profit", "loss", "market", "budget", "manager", "service", "staff", "business", "trade", "credit",
+      "loan", "tax", "salary", "income", "goal", "plan", "order", "supply", "demand", "brand",
+      "competition", "investment", "recruitment", "marketing", "strategy", "revenue", "consumer", "contract", "negotiation", "startup",
+      "franchise", "entrepreneur", "distribution", "logistics", "productivity", "efficiency", "performance", "risk", "insurance", "merger",
+      "acquisition", "stakeholder", "shareholder", "portfolio", "liability", "asset", "equity", "dividend", "fiscal", "volatility",
+      "austerity", "benchmark", "commodity", "conglomerate", "deficit", "incentive", "leverage", "liquidity", "recession", "yield",
+      "arbitrage", "deregulation", "hegemony", "idiosyncrasy", "insolvency", "synergy", "consortium", "fiduciary", "impetus", "macroeconomic",
+      "obsolescence", "prowess", "remuneration", "solvency", "stewardship", "tangential", "trajectory", "underwriting", "viable", "monetarist"
+    ]
+  },
+  {
+    "category": "education",
+    "words": [
+      "school", "teacher", "student", "class", "book", "pen", "paper", "learn", "study", "test",
+      "lesson", "subject", "homework", "read", "write", "answer", "question", "correct", "wrong", "library",
+      "education", "university", "college", "degree", "course", "grade", "exam", "research", "method", "knowledge",
+      "skill", "result", "topic", "project", "report", "presentation", "discuss", "review", "improve", "goal",
+      "academic", "curriculum", "thesis", "scholarship", "qualification", "assessment", "assignment", "seminar", "lecture", "professor",
+      "analysis", "literature", "hypothesis", "experiment", "statistics", "theory", "discipline", "literacy", "pedagogy", "tuition",
+      "methodology", "empirical", "qualitative", "quantitative", "dissertation", "peer-review", "plagiarism", "abstract", "citation", "reference",
+      "credibility", "paradigm", "cognition", "intellectual", "collaboration", "synthesis", "validity", "reliability", "dissemination", "interdisciplinary",
+      "epistemology", "ontology", "hermeneutics", "axiology", "heuristic", "didactic", "pedagogical", "scholasticism", "erudition", "pedantry",
+      "autoethonography", "longitudinal", "triangulation", "poststructuralism", "metacognition", "semiotics", "phenomenology", "dialectic", "praxis", "polymath"
+    ]
+  },
+  {
+    "category": "environment",
+    "words": [
+      "nature", "tree", "clean", "dirty", "water", "air", "animal", "plant", "earth", "sun",
+      "weather", "hot", "cold", "rain", "forest", "sea", "river", "save", "recycle", "bin",
+      "environment", "pollution", "climate", "global", "warming", "protect", "energy", "damage", "resource", "waste",
+      "plastic", "fuel", "species", "wildlife", "impact", "cause", "change", "solar", "wind", "ocean",
+      "sustainable", "emission", "greenhouse", "atmosphere", "conservation", "biodiversity", "deforestation", "renewable", "ecology", "ecosystem",
+      "endangered", "habitat", "drought", "flood", "temperature", "carbon", "agriculture", "contamination", "preservation", "alternative",
+      "depletion", "mitigation", "anthropogenic", "degradation", "afforestation", "biomass", "carbon footprint", "desalination", "equilibrium", "extinction",
+      "geothermal", "irreversible", "permafrost", "precipitation", "resilience", "toxicity", "vulnerability", "urbanization", "sequestration", "pollutant",
+      "bioremediation", "desertification", "eutrophication", "holocene", "interglacial", "limnology", "particulate", "photovoltaic", "stratosphere", "transboundary",
+      "ungulate", "xeriscaping", "zooplankton", "anthropocentrism", "bioaccumulation", "cryosphere", "decarbonization", "geoengineering", "phytoplankton", "tipping point"
+    ]
+  },
+  {
+    "category": "health",
+    "words": [
+      "doctor", "nurse", "hospital", "medicine", "pain", "sick", "healthy", "body", "food", "drink",
+      "sleep", "exercise", "head", "back", "hand", "leg", "eye", "ear", "mouth", "tooth",
+      "patient", "disease", "injury", "treatment", "surgery", "symptom", "infection", "virus", "bacteria", "vitamin",
+      "diet", "stress", "blood", "muscle", "bone", "heart", "lung", "brain", "clinic", "pharmacy",
+      "diagnosis", "prevention", "immune", "vaccine", "chronic", "acute", "mental health", "nutrition", "obesity", "diabetes",
+      "cancer", "allergy", "prescription", "therapy", "physician", "hormone", "metabolism", "antibiotic", "genetic", "disability",
+      "epidemiology", "pathogen", "neurology", "cardiology", "oncology", "rehabilitation", "palliative", "prophylaxis", "malignant", "benign",
+      "remission", "efficacy", "side effect", "intravenous", "mortality", "morbidity", "anatomy", "physiology", "pharmacology", "bioethics",
+      "ameliorate", "convalescence", "etiology", "iatrogenic", "nosocomial", "pharmacopoeia", "prognosis", "psychosomatic", "teratogen", "xenotransplant",
+      "cytokine", "epigenetics", "homeostasis", "immunotherapy", "metastasize", "neuroplasticity", "pharmacokinetics", "senescence", "telemedicine", "zoonosis"
+    ]
+  },
+  {
+    "category": "law",
+    "words": [
+      "law", "rules", "police", "judge", "court", "prison", "vote", "leader", "power", "safe",
+      "crime", "bad", "right", "duty", "country", "king", "queen", "help", "stop", "talk",
+      "government", "politics", "president", "election", "council", "justice", "guilty", "innocent", "evidence", "witness",
+      "lawyer", "agreement", "control", "policy", "public", "private", "protect", "force", "order", "peace",
+      "legislation", "constitution", "democracy", "republic", "parliament", "senate", "cabinet", "authority", "regulation", "enforcement",
+      "prosecution", "defense", "verdict", "violation", "corruption", "reform", "diplomacy", "treaty", "sovereignty", "sanction",
+      "jurisprudence", "litigation", "jurisdiction", "mandate", "ratification", "arbitrary", "bureaucracy", "autocracy", "oligarchy", "impeachment",
+      "injunction", "liability", "precedent", "statute", "tribunal", "clemency", "extradition", "governance", "hegemony", "pluralism",
+      "amicus curiae", "codification", "habeas corpus", "interregnum", "machiavellian", "meritocracy", "nullification", "plebiscite", "prerogative", "realpolitik",
+      "res judicata", "subpoena", "suzerainty", "technocracy", "tort", "ultra vires", "unilateralism", "writ", "gerrymandering"
+    ]
+  },
+  {
+    "category": "psychology",
+    "words": [
+      "mind", "brain", "feel", "think", "happy", "sad", "angry", "scared", "love", "hate",
+      "dream", "memory", "sleep", "habit", "friend", "talk", "listen", "learn", "person", "body",
+      "psychology", "behavior", "emotion", "stress", "relax", "health", "mood", "character", "social", "problem",
+      "choice", "goal", "focus", "believe", "support", "fear", "hope", "skill", "action", "success",
+      "cognitive", "motivation", "personality", "anxiety", "depression", "trauma", "perception", "awareness", "attitude", "instinct",
+      "subconscious", "empathy", "confidence", "frustration", "therapy", "counselor", "disorder", "resilience", "interaction", "influence",
+      "neuroscience", "altruism", "ambivalence", "catharsis", "conditioning", "conformity", "narcissism", "psychosomatic", "introspection", "subjectivity",
+      "rationalization", "repression", "sophistication", "vulnerability", "cognizance", "equilibrium", "manifestation", "projection", "stimulus", "temperament",
+      "archetype", "behavioralism", "determinism", "epistemology", "neuroplasticity", "phenomenology", "psychoanalysis", "solipsism", "synesthesia", "vicarious",
+      "hegemony", "idiosyncrasy", "impetus", "inextricable", "meta-analysis", "paradigmatic", "quintessential", "sublimation", "transpersonal", "volition"
+    ]
+  },
+  {
+    "category": "science",
+    "words": [
+      "science", "space", "moon", "star", "earth", "lab", "test", "new", "idea", "light",
+      "heat", "sound", "metal", "water", "gas", "speed", "machine", "tool", "future", "find",
+      "scientist", "research", "discovery", "invention", "theory", "method", "evidence", "result", "experiment", "energy",
+      "material", "chemical", "biology", "physics", "chemistry", "system", "process", "develop", "improve", "create",
+      "innovation", "technology", "laboratory", "hypothesis", "observation", "analysis", "evolution", "genetics", "molecule", "particle",
+      "gravity", "radiation", "sustainable", "efficient", "digital", "prototype", "patent", "engineering", "advance", "potential",
+      "breakthrough", "methodology", "empirical", "qualitative", "quantitative", "nanotechnology", "biotechnology", "astrophysics", "thermodynamics", "synthesis",
+      "catalyst", "infrastructure", "versatility", "sophistication", "intuitive", "cognitive", "resilience", "implementation", "optimization", "integration",
+      "paradigm shift", "quantum", "entanglement", "superconductivity", "crystallography", "epistemology", "heuristics", "obfuscation", "telemetry", "bioremediation",
+      "cybernetics", "genomics", "proteomics", "singularity", "ubiquity", "volatility", "synergetic", "anthropogenic", "interdisciplinary", "mechanistic"
+    ]
+  },
+  {
+    "category": "society",
+    "words": [
+      "people", "family", "friend", "city", "country", "language", "music", "food", "holiday", "party",
+      "sport", "work", "life", "street", "home", "world", "group", "meet", "help", "share",
+      "society", "culture", "community", "tradition", "religion", "history", "behavior", "fashion", "opinion", "belief",
+      "event", "festival", "media", "population", "neighbor", "support", "problem", "solution", "freedom", "rights",
+      "generation", "diversity", "identity", "stereotype", "prejudice", "discrimination", "inequality", "migration", "urban", "rural",
+      "globalisation", "values", "norms", "hierarchy", "integration", "privilege", "activism", "welfare", "demographic", "heritage",
+      "assimilation", "multiculturalism", "marginalization", "socioeconomic", "infrastructure", "secularism", "ideology", "paradigm", "bureaucracy", "segregation",
+      "alienation", "cohesion", "pluralism", "stratification", "ethnocentrism", "hegemony", "civil liberty", "gentrification", "xenophobia", "philanthropy",
+      "acculturation", "communitarianism", "cosmopolitanism", "epistemology", "intersectionality", "meritocracy", "neoliberalism", "post-colonialism", "proletariat", "semiotics",
+      "structuralism", "totalitarianism", "utilitarianism", "egalitarianism", "individualism", "collectivism", "subjugation", "sovereignty", "paradigm shift", "zeitgeist"
+    ]
+  }
+]
