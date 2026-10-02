@@ -11,7 +11,7 @@
 #include <cstdlib>
 #include <ctime>
 #include "GuessProcessor.h"
-#include "mock_data.h" 
+#include "mock_data.h" // <-- mock thay cho docdulieu.h, khong phu thuoc branch khac
 #include <algorithm>
 
 // Day la vi du ve viec UI/data loader tu xu ly chuoi do kho roi

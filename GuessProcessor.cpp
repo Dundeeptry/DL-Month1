@@ -18,9 +18,16 @@ std::string buildDisplayWord(const std::string& secretWord,
 
     for (size_t i = 0; i < secretWord.size(); ++i) {
         char c = secretWord[i];
+        unsigned char rawC = static_cast<unsigned char>(c);
 
-        if (guessedLetters.count(c)) {
-            display += static_cast<char>(std::toupper(c));
+        if (!std::isalpha(rawC)) {
+            // Khong phai chu cai (dau cach, '-', '\'', ...) -> tu hien
+            // thi luon, khong bat nguoi choi phai doan ky tu nay.
+            display += c;
+        } else if (guessedLetters.count(c)) {
+            // secretWord va guessedLetters da duoc chuan hoa thanh CHU HOA
+            // tu luc initGame/processGuess, nen o day khong can toupper lai.
+            display += c;
         } else {
             display += '_';
         }
@@ -38,12 +45,22 @@ GameState initGame(const std::string& secretWord, Difficulty diff) {
 
 GameState initGame(const std::string& secretWord, int maxLives) {
     GameState state;
-    state.secretWord     = secretWord;
+
+    // Chuan hoa secretWord thanh CHU HOA ngay tu dau (thay vi chu
+    // thuong nhu truoc). Lam 1 lan duy nhat o day, de ve sau khoi
+    // phai doi qua lai giua hoa/thuong moi khi so sanh hay hien thi -
+    // UI/UX lay du lieu ve la xu ly duoc luon, khong can tu convert.
+    std::string upperSecret = secretWord;
+    std::transform(upperSecret.begin(), upperSecret.end(), upperSecret.begin(),
+                   [](unsigned char ch) { return std::toupper(ch); });
+
+    state.secretWord     = upperSecret;
     state.maxLives       = (maxLives > 0) ? maxLives : 1; // chan so mang <= 0
     state.livesRemaining = state.maxLives;
     state.isWin  = false;
     state.isLose = false;
     state.lastGuessInvalid = false;
+    state.lastGuessWasRepeat = false;
     state.displayWord = buildDisplayWord(secretWord, state.guessedLetters);
     return state;
 }
@@ -55,23 +72,31 @@ GameState processGuess(GameState state, char inputChar) {
     }
 
     state.lastGuessInvalid = false;
+    state.lastGuessWasRepeat = false;
 
-    // ep ve unsigned char truoc khi dua vao isalpha/tolower de tranh
+    // ep ve unsigned char truoc khi dua vao isalpha/toupper de tranh
     // undefined behavior voi cac ky tu ngoai ASCII (vd nhap nham ky tu lạ)
     unsigned char raw = static_cast<unsigned char>(inputChar);
 
     // Xac nhan ky tu phai la chu cai (a-z hoac A-Z).
-    // Dau cach, so, ky tu dac biet (vd nhap du thua dau cach o cuoi
+    // So, dau cach, ky tu dac biet (vd nhap du thua dau cach o cuoi
     // chuoi) deu bi loai o day, khong duoc tinh la 1 luot doan.
+    // (Dau cach/'-' trong tu bi mat da duoc tu dong hien thi san trong
+    // buildDisplayWord, nen nguoi choi khong can va khong the doan no.)
     if (!std::isalpha(raw)) {
         state.lastGuessInvalid = true;
         return state;
     }
 
-    char c = static_cast<char>(std::tolower(raw));
+    // Chuan hoa ve CHU HOA (thay vi chu thuong nhu truoc) de khop voi
+    // secretWord da duoc chuan hoa hoa tu initGame.
+    char c = static_cast<char>(std::toupper(raw));
 
-    // Neu ky tu nay da doan roi (dung hoac sai) -> bo qua, khong tru mang
+    // Neu ky tu nay da doan roi (dung hoac sai) -> bo qua, khong tru mang.
+    // Khac voi truong hop invalid o tren: day la chu cai HOP LE, chi la
+    // da doan roi, nen bat flag rieng de UI phan biet duoc 2 truong hop.
     if (state.guessedLetters.count(c)) {
+        state.lastGuessWasRepeat = true;
         return state;
     }
 
