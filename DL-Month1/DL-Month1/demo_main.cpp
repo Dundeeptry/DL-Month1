@@ -11,11 +11,30 @@
 #include <cstdlib>
 #include <ctime>
 #include "GuessProcessor.h"
+#include "mock_data.h" 
+#include <algorithm>
+
+// Day la vi du ve viec UI/data loader tu xu ly chuoi do kho roi
+// moi dua enum Difficulty vao GuessProcessor (theo gop y cua team:
+// parseDifficulty khong con nam trong GuessProcessor nua).
+Difficulty demoParseDifficulty(const std::string& input) {
+    std::string s = input;
+    std::transform(s.begin(), s.end(), s.begin(), ::tolower);
+    if (s == "easy" || s == "de")  return Difficulty::EASY;
+    if (s == "hard" || s == "kho") return Difficulty::HARD;
+    return Difficulty::MEDIUM;
+}
 
 int main() {
-    // ---- Issue #4: chon secretWord ngau nhien ----
-    std::vector<std::string> wordList = {"frog", "apple", "tiger", "orange"};
+    // ---- Lay danh sach tu gia (mock) de test doc lap, khong can doi branch khac ----
+    std::vector<std::string> wordList = loadMockWordList();
 
+    if (wordList.empty()) {
+        std::cerr << "Khong doc duoc danh sach tu, thoat chuong trinh.\n";
+        return 1;
+    }
+
+    // ---- Issue #4: chon secretWord ngau nhien ----
     srand(static_cast<unsigned int>(time(0)));
     int idx = rand() % wordList.size();
     std::string secretWord = wordList[idx];
@@ -24,7 +43,7 @@ int main() {
     std::string difficultyInput;
     std::cout << "Chon do kho (easy/medium/hard): ";
     std::cin >> difficultyInput;
-    Difficulty diff = parseDifficulty(difficultyInput);
+    Difficulty diff = demoParseDifficulty(difficultyInput);
 
     GameState state = initGame(secretWord, diff);
 
