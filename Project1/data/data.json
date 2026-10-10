@@ -1,0 +1,6002 @@
+[
+  {
+    "word": "apple",
+    "meaning": "quả táo",
+    "hint": "A red or green fruit that grows on trees",
+    "difficulty": "easy"
+  },
+  {
+    "word": "banana",
+    "meaning": "quả chuối",
+    "hint": "A long yellow fruit",
+    "difficulty": "easy"
+  },
+  {
+    "word": "orange",
+    "meaning": "quả cam",
+    "hint": "A round fruit with a thick orange skin",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bread",
+    "meaning": "bánh mì",
+    "hint": "Food made from flour and baked",
+    "difficulty": "easy"
+  },
+  {
+    "word": "water",
+    "meaning": "nước",
+    "hint": "A clear liquid you drink",
+    "difficulty": "easy"
+  },
+  {
+    "word": "milk",
+    "meaning": "sữa",
+    "hint": "A white drink that comes from cows",
+    "difficulty": "easy"
+  },
+  {
+    "word": "egg",
+    "meaning": "trứng",
+    "hint": "An oval food from a chicken",
+    "difficulty": "easy"
+  },
+  {
+    "word": "rice",
+    "meaning": "cơm, gạo",
+    "hint": "Small white grains eaten as food",
+    "difficulty": "easy"
+  },
+  {
+    "word": "meat",
+    "meaning": "thịt",
+    "hint": "Food that comes from animals",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fish",
+    "meaning": "cá",
+    "hint": "An animal that lives in water, also a food",
+    "difficulty": "easy"
+  },
+  {
+    "word": "chicken",
+    "meaning": "gà",
+    "hint": "A bird kept for eggs and meat",
+    "difficulty": "easy"
+  },
+  {
+    "word": "sugar",
+    "meaning": "đường",
+    "hint": "A sweet white powder",
+    "difficulty": "easy"
+  },
+  {
+    "word": "salt",
+    "meaning": "muối",
+    "hint": "A white powder that makes food taste better",
+    "difficulty": "easy"
+  },
+  {
+    "word": "coffee",
+    "meaning": "cà phê",
+    "hint": "A hot brown drink",
+    "difficulty": "easy"
+  },
+  {
+    "word": "tea",
+    "meaning": "trà",
+    "hint": "A hot drink made from leaves",
+    "difficulty": "easy"
+  },
+  {
+    "word": "cake",
+    "meaning": "bánh ngọt",
+    "hint": "A sweet baked food",
+    "difficulty": "easy"
+  },
+  {
+    "word": "vegetable",
+    "meaning": "rau củ",
+    "hint": "A plant that you eat, like a carrot",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fruit",
+    "meaning": "trái cây",
+    "hint": "Sweet food that grows on trees or plants",
+    "difficulty": "easy"
+  },
+  {
+    "word": "breakfast",
+    "meaning": "bữa sáng",
+    "hint": "The first meal of the day",
+    "difficulty": "easy"
+  },
+  {
+    "word": "lunch",
+    "meaning": "bữa trưa",
+    "hint": "The meal in the middle of the day",
+    "difficulty": "easy"
+  },
+  {
+    "word": "dinner",
+    "meaning": "bữa tối",
+    "hint": "The main meal in the evening",
+    "difficulty": "easy"
+  },
+  {
+    "word": "food",
+    "meaning": "thức ăn",
+    "hint": "Things that you eat",
+    "difficulty": "easy"
+  },
+  {
+    "word": "drink",
+    "meaning": "uống",
+    "hint": "To take a liquid into your mouth",
+    "difficulty": "easy"
+  },
+  {
+    "word": "eat",
+    "meaning": "ăn",
+    "hint": "To put food in your mouth",
+    "difficulty": "easy"
+  },
+  {
+    "word": "hungry",
+    "meaning": "đói",
+    "hint": "Wanting to eat",
+    "difficulty": "easy"
+  },
+  {
+    "word": "cook",
+    "meaning": "nấu ăn",
+    "hint": "To make food hot and ready to eat",
+    "difficulty": "easy"
+  },
+  {
+    "word": "dog",
+    "meaning": "con chó",
+    "hint": "A pet that barks",
+    "difficulty": "easy"
+  },
+  {
+    "word": "cat",
+    "meaning": "con mèo",
+    "hint": "A small pet with soft fur",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bird",
+    "meaning": "con chim",
+    "hint": "An animal with wings and feathers",
+    "difficulty": "easy"
+  },
+  {
+    "word": "animal",
+    "meaning": "động vật",
+    "hint": "A living thing that is not a plant",
+    "difficulty": "easy"
+  },
+  {
+    "word": "pet",
+    "meaning": "thú cưng",
+    "hint": "An animal that you keep at home",
+    "difficulty": "easy"
+  },
+  {
+    "word": "mother",
+    "meaning": "mẹ",
+    "hint": "Your female parent",
+    "difficulty": "easy"
+  },
+  {
+    "word": "father",
+    "meaning": "bố",
+    "hint": "Your male parent",
+    "difficulty": "easy"
+  },
+  {
+    "word": "brother",
+    "meaning": "anh/em trai",
+    "hint": "A boy with the same parents as you",
+    "difficulty": "easy"
+  },
+  {
+    "word": "sister",
+    "meaning": "chị/em gái",
+    "hint": "A girl with the same parents as you",
+    "difficulty": "easy"
+  },
+  {
+    "word": "son",
+    "meaning": "con trai",
+    "hint": "Your male child",
+    "difficulty": "easy"
+  },
+  {
+    "word": "daughter",
+    "meaning": "con gái",
+    "hint": "Your female child",
+    "difficulty": "easy"
+  },
+  {
+    "word": "baby",
+    "meaning": "em bé",
+    "hint": "A very young child",
+    "difficulty": "easy"
+  },
+  {
+    "word": "child",
+    "meaning": "đứa trẻ",
+    "hint": "A young person",
+    "difficulty": "easy"
+  },
+  {
+    "word": "family",
+    "meaning": "gia đình",
+    "hint": "Parents, children and relatives",
+    "difficulty": "easy"
+  },
+  {
+    "word": "friend",
+    "meaning": "bạn bè",
+    "hint": "A person you know and like",
+    "difficulty": "easy"
+  },
+  {
+    "word": "husband",
+    "meaning": "chồng",
+    "hint": "A married man",
+    "difficulty": "easy"
+  },
+  {
+    "word": "wife",
+    "meaning": "vợ",
+    "hint": "A married woman",
+    "difficulty": "easy"
+  },
+  {
+    "word": "man",
+    "meaning": "đàn ông",
+    "hint": "An adult male",
+    "difficulty": "easy"
+  },
+  {
+    "word": "woman",
+    "meaning": "phụ nữ",
+    "hint": "An adult female",
+    "difficulty": "easy"
+  },
+  {
+    "word": "boy",
+    "meaning": "bé trai",
+    "hint": "A young male person",
+    "difficulty": "easy"
+  },
+  {
+    "word": "girl",
+    "meaning": "bé gái",
+    "hint": "A young female person",
+    "difficulty": "easy"
+  },
+  {
+    "word": "people",
+    "meaning": "mọi người",
+    "hint": "More than one person",
+    "difficulty": "easy"
+  },
+  {
+    "word": "teacher",
+    "meaning": "giáo viên",
+    "hint": "A person who teaches",
+    "difficulty": "easy"
+  },
+  {
+    "word": "student",
+    "meaning": "học sinh",
+    "hint": "A person who studies at school",
+    "difficulty": "easy"
+  },
+  {
+    "word": "doctor",
+    "meaning": "bác sĩ",
+    "hint": "A person who helps sick people",
+    "difficulty": "easy"
+  },
+  {
+    "word": "head",
+    "meaning": "đầu",
+    "hint": "The top part of your body",
+    "difficulty": "easy"
+  },
+  {
+    "word": "face",
+    "meaning": "khuôn mặt",
+    "hint": "The front part of your head",
+    "difficulty": "easy"
+  },
+  {
+    "word": "eye",
+    "meaning": "mắt",
+    "hint": "You see with it",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ear",
+    "meaning": "tai",
+    "hint": "You hear with it",
+    "difficulty": "easy"
+  },
+  {
+    "word": "nose",
+    "meaning": "mũi",
+    "hint": "You smell with it",
+    "difficulty": "easy"
+  },
+  {
+    "word": "mouth",
+    "meaning": "miệng",
+    "hint": "You eat and speak with it",
+    "difficulty": "easy"
+  },
+  {
+    "word": "hair",
+    "meaning": "tóc",
+    "hint": "It grows on your head",
+    "difficulty": "easy"
+  },
+  {
+    "word": "hand",
+    "meaning": "bàn tay",
+    "hint": "The part at the end of your arm",
+    "difficulty": "easy"
+  },
+  {
+    "word": "arm",
+    "meaning": "cánh tay",
+    "hint": "The part between your shoulder and hand",
+    "difficulty": "easy"
+  },
+  {
+    "word": "leg",
+    "meaning": "chân",
+    "hint": "You walk with it",
+    "difficulty": "easy"
+  },
+  {
+    "word": "foot",
+    "meaning": "bàn chân",
+    "hint": "The part at the end of your leg",
+    "difficulty": "easy"
+  },
+  {
+    "word": "body",
+    "meaning": "cơ thể",
+    "hint": "All the parts of a person",
+    "difficulty": "easy"
+  },
+  {
+    "word": "house",
+    "meaning": "ngôi nhà",
+    "hint": "A building where people live",
+    "difficulty": "easy"
+  },
+  {
+    "word": "home",
+    "meaning": "nhà",
+    "hint": "The place where you live",
+    "difficulty": "easy"
+  },
+  {
+    "word": "room",
+    "meaning": "căn phòng",
+    "hint": "A part inside a building",
+    "difficulty": "easy"
+  },
+  {
+    "word": "kitchen",
+    "meaning": "nhà bếp",
+    "hint": "A room for cooking",
+    "difficulty": "easy"
+  },
+  {
+    "word": "door",
+    "meaning": "cửa ra vào",
+    "hint": "You open it to go into a room",
+    "difficulty": "easy"
+  },
+  {
+    "word": "window",
+    "meaning": "cửa sổ",
+    "hint": "Glass in a wall that lets in light",
+    "difficulty": "easy"
+  },
+  {
+    "word": "table",
+    "meaning": "cái bàn",
+    "hint": "A piece of furniture with a flat top",
+    "difficulty": "easy"
+  },
+  {
+    "word": "chair",
+    "meaning": "cái ghế",
+    "hint": "You sit on it",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bed",
+    "meaning": "cái giường",
+    "hint": "You sleep on it",
+    "difficulty": "easy"
+  },
+  {
+    "word": "garden",
+    "meaning": "khu vườn",
+    "hint": "A place with flowers and plants",
+    "difficulty": "easy"
+  },
+  {
+    "word": "street",
+    "meaning": "đường phố",
+    "hint": "A road in a town",
+    "difficulty": "easy"
+  },
+  {
+    "word": "city",
+    "meaning": "thành phố",
+    "hint": "A big town",
+    "difficulty": "easy"
+  },
+  {
+    "word": "town",
+    "meaning": "thị trấn",
+    "hint": "A place smaller than a city",
+    "difficulty": "easy"
+  },
+  {
+    "word": "school",
+    "meaning": "trường học",
+    "hint": "A place where children learn",
+    "difficulty": "easy"
+  },
+  {
+    "word": "shop",
+    "meaning": "cửa hàng",
+    "hint": "A place that sells things",
+    "difficulty": "easy"
+  },
+  {
+    "word": "market",
+    "meaning": "chợ",
+    "hint": "A place to buy and sell food",
+    "difficulty": "easy"
+  },
+  {
+    "word": "hospital",
+    "meaning": "bệnh viện",
+    "hint": "A place for sick people",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bank",
+    "meaning": "ngân hàng",
+    "hint": "A place that keeps money",
+    "difficulty": "easy"
+  },
+  {
+    "word": "park",
+    "meaning": "công viên",
+    "hint": "A green place in a city",
+    "difficulty": "easy"
+  },
+  {
+    "word": "restaurant",
+    "meaning": "nhà hàng",
+    "hint": "A place where you eat meals",
+    "difficulty": "easy"
+  },
+  {
+    "word": "hotel",
+    "meaning": "khách sạn",
+    "hint": "A place to stay when you travel",
+    "difficulty": "easy"
+  },
+  {
+    "word": "station",
+    "meaning": "nhà ga",
+    "hint": "A place where trains or buses stop",
+    "difficulty": "easy"
+  },
+  {
+    "word": "airport",
+    "meaning": "sân bay",
+    "hint": "A place where planes land",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beach",
+    "meaning": "bãi biển",
+    "hint": "Sand next to the sea",
+    "difficulty": "easy"
+  },
+  {
+    "word": "sea",
+    "meaning": "biển",
+    "hint": "A large area of salt water",
+    "difficulty": "easy"
+  },
+  {
+    "word": "river",
+    "meaning": "con sông",
+    "hint": "Water that flows to the sea",
+    "difficulty": "easy"
+  },
+  {
+    "word": "mountain",
+    "meaning": "ngọn núi",
+    "hint": "A very high hill",
+    "difficulty": "easy"
+  },
+  {
+    "word": "tree",
+    "meaning": "cái cây",
+    "hint": "A tall plant with a trunk",
+    "difficulty": "easy"
+  },
+  {
+    "word": "flower",
+    "meaning": "bông hoa",
+    "hint": "The colorful part of a plant",
+    "difficulty": "easy"
+  },
+  {
+    "word": "sun",
+    "meaning": "mặt trời",
+    "hint": "The bright star in the sky",
+    "difficulty": "easy"
+  },
+  {
+    "word": "moon",
+    "meaning": "mặt trăng",
+    "hint": "It shines in the sky at night",
+    "difficulty": "easy"
+  },
+  {
+    "word": "sky",
+    "meaning": "bầu trời",
+    "hint": "The space above the Earth",
+    "difficulty": "easy"
+  },
+  {
+    "word": "rain",
+    "meaning": "mưa",
+    "hint": "Water that falls from clouds",
+    "difficulty": "easy"
+  },
+  {
+    "word": "wind",
+    "meaning": "gió",
+    "hint": "Air that moves",
+    "difficulty": "easy"
+  },
+  {
+    "word": "weather",
+    "meaning": "thời tiết",
+    "hint": "Sun, rain, wind and so on",
+    "difficulty": "easy"
+  },
+  {
+    "word": "hot",
+    "meaning": "nóng",
+    "hint": "Having a high temperature",
+    "difficulty": "easy"
+  },
+  {
+    "word": "cold",
+    "meaning": "lạnh",
+    "hint": "Having a low temperature",
+    "difficulty": "easy"
+  },
+  {
+    "word": "warm",
+    "meaning": "ấm",
+    "hint": "A little hot",
+    "difficulty": "easy"
+  },
+  {
+    "word": "car",
+    "meaning": "xe hơi",
+    "hint": "A road vehicle with four wheels",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bus",
+    "meaning": "xe buýt",
+    "hint": "A big vehicle for many people",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bike",
+    "meaning": "xe đạp",
+    "hint": "A vehicle with two wheels that you pedal",
+    "difficulty": "easy"
+  },
+  {
+    "word": "train",
+    "meaning": "tàu hỏa",
+    "hint": "A vehicle that runs on rails",
+    "difficulty": "easy"
+  },
+  {
+    "word": "plane",
+    "meaning": "máy bay",
+    "hint": "A vehicle that flies",
+    "difficulty": "easy"
+  },
+  {
+    "word": "road",
+    "meaning": "con đường",
+    "hint": "A way for cars to travel on",
+    "difficulty": "easy"
+  },
+  {
+    "word": "shirt",
+    "meaning": "áo sơ mi",
+    "hint": "Clothes for the top of your body",
+    "difficulty": "easy"
+  },
+  {
+    "word": "shoe",
+    "meaning": "chiếc giày",
+    "hint": "You wear it on your foot",
+    "difficulty": "easy"
+  },
+  {
+    "word": "clothes",
+    "meaning": "quần áo",
+    "hint": "Things that you wear",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bag",
+    "meaning": "túi xách",
+    "hint": "You carry things in it",
+    "difficulty": "easy"
+  },
+  {
+    "word": "book",
+    "meaning": "quyển sách",
+    "hint": "Pages with words to read",
+    "difficulty": "easy"
+  },
+  {
+    "word": "pen",
+    "meaning": "bút mực",
+    "hint": "You write with it",
+    "difficulty": "easy"
+  },
+  {
+    "word": "pencil",
+    "meaning": "bút chì",
+    "hint": "You write or draw with it",
+    "difficulty": "easy"
+  },
+  {
+    "word": "paper",
+    "meaning": "giấy",
+    "hint": "You write on it",
+    "difficulty": "easy"
+  },
+  {
+    "word": "phone",
+    "meaning": "điện thoại",
+    "hint": "You use it to call people",
+    "difficulty": "easy"
+  },
+  {
+    "word": "computer",
+    "meaning": "máy tính",
+    "hint": "A machine for work and games",
+    "difficulty": "easy"
+  },
+  {
+    "word": "television",
+    "meaning": "ti vi",
+    "hint": "A screen for watching programs",
+    "difficulty": "easy"
+  },
+  {
+    "word": "watch",
+    "meaning": "xem",
+    "hint": "To look at something for a time",
+    "difficulty": "easy"
+  },
+  {
+    "word": "picture",
+    "meaning": "bức tranh",
+    "hint": "A drawing or a photo",
+    "difficulty": "easy"
+  },
+  {
+    "word": "box",
+    "meaning": "cái hộp",
+    "hint": "A container with straight sides",
+    "difficulty": "easy"
+  },
+  {
+    "word": "money",
+    "meaning": "tiền",
+    "hint": "You use it to buy things",
+    "difficulty": "easy"
+  },
+  {
+    "word": "price",
+    "meaning": "giá cả",
+    "hint": "The money you pay for something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "cheap",
+    "meaning": "rẻ",
+    "hint": "Not costing much money",
+    "difficulty": "easy"
+  },
+  {
+    "word": "expensive",
+    "meaning": "đắt",
+    "hint": "Costing a lot of money",
+    "difficulty": "easy"
+  },
+  {
+    "word": "buy",
+    "meaning": "mua",
+    "hint": "To get something by paying money",
+    "difficulty": "easy"
+  },
+  {
+    "word": "sell",
+    "meaning": "bán",
+    "hint": "To give something for money",
+    "difficulty": "easy"
+  },
+  {
+    "word": "pay",
+    "meaning": "trả tiền",
+    "hint": "To give money for something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "time",
+    "meaning": "thời gian",
+    "hint": "Hours, minutes and seconds",
+    "difficulty": "easy"
+  },
+  {
+    "word": "day",
+    "meaning": "ngày",
+    "hint": "A period of 24 hours",
+    "difficulty": "easy"
+  },
+  {
+    "word": "night",
+    "meaning": "đêm",
+    "hint": "The dark part of the day",
+    "difficulty": "easy"
+  },
+  {
+    "word": "morning",
+    "meaning": "buổi sáng",
+    "hint": "The early part of the day",
+    "difficulty": "easy"
+  },
+  {
+    "word": "afternoon",
+    "meaning": "buổi chiều",
+    "hint": "The time after lunch",
+    "difficulty": "easy"
+  },
+  {
+    "word": "evening",
+    "meaning": "buổi tối",
+    "hint": "The time before night",
+    "difficulty": "easy"
+  },
+  {
+    "word": "week",
+    "meaning": "tuần",
+    "hint": "A period of seven days",
+    "difficulty": "easy"
+  },
+  {
+    "word": "month",
+    "meaning": "tháng",
+    "hint": "A period of about four weeks",
+    "difficulty": "easy"
+  },
+  {
+    "word": "year",
+    "meaning": "năm",
+    "hint": "A period of twelve months",
+    "difficulty": "easy"
+  },
+  {
+    "word": "today",
+    "meaning": "hôm nay",
+    "hint": "This day",
+    "difficulty": "easy"
+  },
+  {
+    "word": "tomorrow",
+    "meaning": "ngày mai",
+    "hint": "The day after today",
+    "difficulty": "easy"
+  },
+  {
+    "word": "yesterday",
+    "meaning": "hôm qua",
+    "hint": "The day before today",
+    "difficulty": "easy"
+  },
+  {
+    "word": "monday",
+    "meaning": "thứ hai",
+    "hint": "The first day of the working week",
+    "difficulty": "easy"
+  },
+  {
+    "word": "sunday",
+    "meaning": "chủ nhật",
+    "hint": "The day after Saturday",
+    "difficulty": "easy"
+  },
+  {
+    "word": "one",
+    "meaning": "một",
+    "hint": "The number 1",
+    "difficulty": "easy"
+  },
+  {
+    "word": "two",
+    "meaning": "hai",
+    "hint": "The number 2",
+    "difficulty": "easy"
+  },
+  {
+    "word": "three",
+    "meaning": "ba",
+    "hint": "The number 3",
+    "difficulty": "easy"
+  },
+  {
+    "word": "four",
+    "meaning": "bốn",
+    "hint": "The number 4",
+    "difficulty": "easy"
+  },
+  {
+    "word": "five",
+    "meaning": "năm (số)",
+    "hint": "The number 5",
+    "difficulty": "easy"
+  },
+  {
+    "word": "six",
+    "meaning": "sáu",
+    "hint": "The number 6",
+    "difficulty": "easy"
+  },
+  {
+    "word": "seven",
+    "meaning": "bảy",
+    "hint": "The number 7",
+    "difficulty": "easy"
+  },
+  {
+    "word": "eight",
+    "meaning": "tám",
+    "hint": "The number 8",
+    "difficulty": "easy"
+  },
+  {
+    "word": "nine",
+    "meaning": "chín",
+    "hint": "The number 9",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ten",
+    "meaning": "mười",
+    "hint": "The number 10",
+    "difficulty": "easy"
+  },
+  {
+    "word": "red",
+    "meaning": "màu đỏ",
+    "hint": "The color of blood",
+    "difficulty": "easy"
+  },
+  {
+    "word": "blue",
+    "meaning": "màu xanh dương",
+    "hint": "The color of the sky",
+    "difficulty": "easy"
+  },
+  {
+    "word": "green",
+    "meaning": "màu xanh lá",
+    "hint": "The color of grass",
+    "difficulty": "easy"
+  },
+  {
+    "word": "yellow",
+    "meaning": "màu vàng",
+    "hint": "The color of the sun",
+    "difficulty": "easy"
+  },
+  {
+    "word": "black",
+    "meaning": "màu đen",
+    "hint": "The color of the night",
+    "difficulty": "easy"
+  },
+  {
+    "word": "white",
+    "meaning": "màu trắng",
+    "hint": "The color of snow",
+    "difficulty": "easy"
+  },
+  {
+    "word": "color",
+    "meaning": "màu sắc",
+    "hint": "Red, blue or green, for example",
+    "difficulty": "easy"
+  },
+  {
+    "word": "big",
+    "meaning": "to, lớn",
+    "hint": "Large in size",
+    "difficulty": "easy"
+  },
+  {
+    "word": "small",
+    "meaning": "nhỏ",
+    "hint": "Not big",
+    "difficulty": "easy"
+  },
+  {
+    "word": "long",
+    "meaning": "dài",
+    "hint": "Having a large length",
+    "difficulty": "easy"
+  },
+  {
+    "word": "short",
+    "meaning": "ngắn, thấp",
+    "hint": "Not long or not tall",
+    "difficulty": "easy"
+  },
+  {
+    "word": "tall",
+    "meaning": "cao",
+    "hint": "Having a great height",
+    "difficulty": "easy"
+  },
+  {
+    "word": "new",
+    "meaning": "mới",
+    "hint": "Not old",
+    "difficulty": "easy"
+  },
+  {
+    "word": "old",
+    "meaning": "cũ, già",
+    "hint": "Not new or not young",
+    "difficulty": "easy"
+  },
+  {
+    "word": "young",
+    "meaning": "trẻ",
+    "hint": "Not old",
+    "difficulty": "easy"
+  },
+  {
+    "word": "good",
+    "meaning": "tốt",
+    "hint": "Of a high quality",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bad",
+    "meaning": "xấu, tệ",
+    "hint": "Not good",
+    "difficulty": "easy"
+  },
+  {
+    "word": "happy",
+    "meaning": "vui",
+    "hint": "Feeling pleasure",
+    "difficulty": "easy"
+  },
+  {
+    "word": "sad",
+    "meaning": "buồn",
+    "hint": "Feeling unhappy",
+    "difficulty": "easy"
+  },
+  {
+    "word": "tired",
+    "meaning": "mệt",
+    "hint": "Needing to rest or sleep",
+    "difficulty": "easy"
+  },
+  {
+    "word": "nice",
+    "meaning": "tốt bụng, đẹp",
+    "hint": "Pleasant or kind",
+    "difficulty": "easy"
+  },
+  {
+    "word": "beautiful",
+    "meaning": "đẹp",
+    "hint": "Very nice to look at",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fast",
+    "meaning": "nhanh",
+    "hint": "Moving quickly",
+    "difficulty": "easy"
+  },
+  {
+    "word": "slow",
+    "meaning": "chậm",
+    "hint": "Not fast",
+    "difficulty": "easy"
+  },
+  {
+    "word": "clean",
+    "meaning": "sạch",
+    "hint": "Not dirty",
+    "difficulty": "easy"
+  },
+  {
+    "word": "dirty",
+    "meaning": "bẩn",
+    "hint": "Not clean",
+    "difficulty": "easy"
+  },
+  {
+    "word": "open",
+    "meaning": "mở",
+    "hint": "Not closed",
+    "difficulty": "easy"
+  },
+  {
+    "word": "close",
+    "meaning": "đóng",
+    "hint": "To shut something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "full",
+    "meaning": "đầy",
+    "hint": "Having no space left",
+    "difficulty": "easy"
+  },
+  {
+    "word": "empty",
+    "meaning": "trống rỗng",
+    "hint": "Having nothing inside",
+    "difficulty": "easy"
+  },
+  {
+    "word": "heavy",
+    "meaning": "nặng",
+    "hint": "Weighing a lot",
+    "difficulty": "easy"
+  },
+  {
+    "word": "light",
+    "meaning": "nhẹ, ánh sáng",
+    "hint": "Not heavy, or brightness from a lamp",
+    "difficulty": "easy"
+  },
+  {
+    "word": "easy",
+    "meaning": "dễ",
+    "hint": "Not difficult",
+    "difficulty": "easy"
+  },
+  {
+    "word": "hard",
+    "meaning": "khó, cứng",
+    "hint": "Difficult, or not soft",
+    "difficulty": "easy"
+  },
+  {
+    "word": "right",
+    "meaning": "đúng, bên phải",
+    "hint": "Correct, or the opposite of left",
+    "difficulty": "easy"
+  },
+  {
+    "word": "wrong",
+    "meaning": "sai",
+    "hint": "Not correct",
+    "difficulty": "easy"
+  },
+  {
+    "word": "same",
+    "meaning": "giống nhau",
+    "hint": "Not different",
+    "difficulty": "easy"
+  },
+  {
+    "word": "different",
+    "meaning": "khác nhau",
+    "hint": "Not the same",
+    "difficulty": "easy"
+  },
+  {
+    "word": "favorite",
+    "meaning": "yêu thích",
+    "hint": "Liked more than others",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ready",
+    "meaning": "sẵn sàng",
+    "hint": "Prepared for something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "busy",
+    "meaning": "bận",
+    "hint": "Having a lot to do",
+    "difficulty": "easy"
+  },
+  {
+    "word": "free",
+    "meaning": "rảnh, miễn phí",
+    "hint": "Not busy, or costing no money",
+    "difficulty": "easy"
+  },
+  {
+    "word": "sick",
+    "meaning": "ốm",
+    "hint": "Not healthy",
+    "difficulty": "easy"
+  },
+  {
+    "word": "funny",
+    "meaning": "buồn cười",
+    "hint": "Making you laugh",
+    "difficulty": "easy"
+  },
+  {
+    "word": "kind",
+    "meaning": "tử tế",
+    "hint": "Friendly and caring",
+    "difficulty": "easy"
+  },
+  {
+    "word": "loud",
+    "meaning": "ồn ào",
+    "hint": "Making a lot of noise",
+    "difficulty": "easy"
+  },
+  {
+    "word": "go",
+    "meaning": "đi",
+    "hint": "To move from one place to another",
+    "difficulty": "easy"
+  },
+  {
+    "word": "come",
+    "meaning": "đến",
+    "hint": "To move toward a place",
+    "difficulty": "easy"
+  },
+  {
+    "word": "see",
+    "meaning": "nhìn thấy",
+    "hint": "To use your eyes",
+    "difficulty": "easy"
+  },
+  {
+    "word": "look",
+    "meaning": "nhìn",
+    "hint": "To turn your eyes toward something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "hear",
+    "meaning": "nghe thấy",
+    "hint": "To receive sounds with your ears",
+    "difficulty": "easy"
+  },
+  {
+    "word": "listen",
+    "meaning": "lắng nghe",
+    "hint": "To pay attention to a sound",
+    "difficulty": "easy"
+  },
+  {
+    "word": "speak",
+    "meaning": "nói",
+    "hint": "To use your voice to say words",
+    "difficulty": "easy"
+  },
+  {
+    "word": "say",
+    "meaning": "nói",
+    "hint": "To produce words with your voice",
+    "difficulty": "easy"
+  },
+  {
+    "word": "tell",
+    "meaning": "kể, bảo",
+    "hint": "To give information to someone",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ask",
+    "meaning": "hỏi",
+    "hint": "To say something to get an answer",
+    "difficulty": "easy"
+  },
+  {
+    "word": "answer",
+    "meaning": "trả lời",
+    "hint": "What you say when you are asked",
+    "difficulty": "easy"
+  },
+  {
+    "word": "read",
+    "meaning": "đọc",
+    "hint": "To look at words and understand them",
+    "difficulty": "easy"
+  },
+  {
+    "word": "write",
+    "meaning": "viết",
+    "hint": "To make words on paper",
+    "difficulty": "easy"
+  },
+  {
+    "word": "learn",
+    "meaning": "học",
+    "hint": "To get new knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "word": "study",
+    "meaning": "học tập",
+    "hint": "To spend time learning",
+    "difficulty": "easy"
+  },
+  {
+    "word": "teach",
+    "meaning": "dạy",
+    "hint": "To help people learn",
+    "difficulty": "easy"
+  },
+  {
+    "word": "know",
+    "meaning": "biết",
+    "hint": "To have information in your mind",
+    "difficulty": "easy"
+  },
+  {
+    "word": "think",
+    "meaning": "nghĩ",
+    "hint": "To use your mind",
+    "difficulty": "easy"
+  },
+  {
+    "word": "like",
+    "meaning": "thích",
+    "hint": "To enjoy something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "love",
+    "meaning": "yêu",
+    "hint": "To like very much",
+    "difficulty": "easy"
+  },
+  {
+    "word": "want",
+    "meaning": "muốn",
+    "hint": "To hope to have something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "need",
+    "meaning": "cần",
+    "hint": "To have to have something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "have",
+    "meaning": "có",
+    "hint": "To own or hold something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "make",
+    "meaning": "làm, tạo ra",
+    "hint": "To create something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "do",
+    "meaning": "làm",
+    "hint": "To perform an action",
+    "difficulty": "easy"
+  },
+  {
+    "word": "get",
+    "meaning": "nhận được",
+    "hint": "To receive or obtain",
+    "difficulty": "easy"
+  },
+  {
+    "word": "give",
+    "meaning": "cho, tặng",
+    "hint": "To hand something to someone",
+    "difficulty": "easy"
+  },
+  {
+    "word": "take",
+    "meaning": "lấy",
+    "hint": "To pick up and hold",
+    "difficulty": "easy"
+  },
+  {
+    "word": "put",
+    "meaning": "đặt",
+    "hint": "To place something somewhere",
+    "difficulty": "easy"
+  },
+  {
+    "word": "bring",
+    "meaning": "mang đến",
+    "hint": "To carry something to a place",
+    "difficulty": "easy"
+  },
+  {
+    "word": "start",
+    "meaning": "bắt đầu",
+    "hint": "To begin",
+    "difficulty": "easy"
+  },
+  {
+    "word": "stop",
+    "meaning": "dừng lại",
+    "hint": "To not continue",
+    "difficulty": "easy"
+  },
+  {
+    "word": "play",
+    "meaning": "chơi",
+    "hint": "To have fun with a game",
+    "difficulty": "easy"
+  },
+  {
+    "word": "work",
+    "meaning": "làm việc",
+    "hint": "To do a job",
+    "difficulty": "easy"
+  },
+  {
+    "word": "walk",
+    "meaning": "đi bộ",
+    "hint": "To move on your feet",
+    "difficulty": "easy"
+  },
+  {
+    "word": "run",
+    "meaning": "chạy",
+    "hint": "To move fast on your feet",
+    "difficulty": "easy"
+  },
+  {
+    "word": "swim",
+    "meaning": "bơi",
+    "hint": "To move through water",
+    "difficulty": "easy"
+  },
+  {
+    "word": "fly",
+    "meaning": "bay",
+    "hint": "To move through the air",
+    "difficulty": "easy"
+  },
+  {
+    "word": "sit",
+    "meaning": "ngồi",
+    "hint": "To rest on a chair",
+    "difficulty": "easy"
+  },
+  {
+    "word": "stand",
+    "meaning": "đứng",
+    "hint": "To be on your feet",
+    "difficulty": "easy"
+  },
+  {
+    "word": "sleep",
+    "meaning": "ngủ",
+    "hint": "To rest with your eyes closed",
+    "difficulty": "easy"
+  },
+  {
+    "word": "wash",
+    "meaning": "rửa",
+    "hint": "To clean with water",
+    "difficulty": "easy"
+  },
+  {
+    "word": "drive",
+    "meaning": "lái xe",
+    "hint": "To control a car",
+    "difficulty": "easy"
+  },
+  {
+    "word": "wait",
+    "meaning": "chờ",
+    "hint": "To stay until something happens",
+    "difficulty": "easy"
+  },
+  {
+    "word": "help",
+    "meaning": "giúp đỡ",
+    "hint": "To make something easier for someone",
+    "difficulty": "easy"
+  },
+  {
+    "word": "call",
+    "meaning": "gọi",
+    "hint": "To phone someone or shout",
+    "difficulty": "easy"
+  },
+  {
+    "word": "meet",
+    "meaning": "gặp",
+    "hint": "To see someone for the first time or by plan",
+    "difficulty": "easy"
+  },
+  {
+    "word": "live",
+    "meaning": "sống",
+    "hint": "To have your home somewhere",
+    "difficulty": "easy"
+  },
+  {
+    "word": "stay",
+    "meaning": "ở lại",
+    "hint": "To not leave a place",
+    "difficulty": "easy"
+  },
+  {
+    "word": "visit",
+    "meaning": "thăm",
+    "hint": "To go to see a person or place",
+    "difficulty": "easy"
+  },
+  {
+    "word": "sing",
+    "meaning": "hát",
+    "hint": "To make music with your voice",
+    "difficulty": "easy"
+  },
+  {
+    "word": "dance",
+    "meaning": "nhảy múa",
+    "hint": "To move your body to music",
+    "difficulty": "easy"
+  },
+  {
+    "word": "laugh",
+    "meaning": "cười",
+    "hint": "To make a happy sound",
+    "difficulty": "easy"
+  },
+  {
+    "word": "cry",
+    "meaning": "khóc",
+    "hint": "To have tears come from your eyes",
+    "difficulty": "easy"
+  },
+  {
+    "word": "smile",
+    "meaning": "mỉm cười",
+    "hint": "To look happy with your mouth",
+    "difficulty": "easy"
+  },
+  {
+    "word": "try",
+    "meaning": "thử",
+    "hint": "To make an effort to do something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "use",
+    "meaning": "sử dụng",
+    "hint": "To do something with a thing",
+    "difficulty": "easy"
+  },
+  {
+    "word": "find",
+    "meaning": "tìm thấy",
+    "hint": "To discover something you look for",
+    "difficulty": "easy"
+  },
+  {
+    "word": "lose",
+    "meaning": "đánh mất",
+    "hint": "To not have something anymore",
+    "difficulty": "easy"
+  },
+  {
+    "word": "keep",
+    "meaning": "giữ",
+    "hint": "To continue to have something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "show",
+    "meaning": "cho xem",
+    "hint": "To let someone see something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "wear",
+    "meaning": "mặc",
+    "hint": "To have clothes on your body",
+    "difficulty": "easy"
+  },
+  {
+    "word": "turn",
+    "meaning": "rẽ, quay",
+    "hint": "To change direction",
+    "difficulty": "easy"
+  },
+  {
+    "word": "move",
+    "meaning": "di chuyển",
+    "hint": "To change place",
+    "difficulty": "easy"
+  },
+  {
+    "word": "yes",
+    "meaning": "vâng, có",
+    "hint": "A word for agreeing",
+    "difficulty": "easy"
+  },
+  {
+    "word": "no",
+    "meaning": "không",
+    "hint": "A word for saying not",
+    "difficulty": "easy"
+  },
+  {
+    "word": "please",
+    "meaning": "làm ơn",
+    "hint": "A polite word when you ask",
+    "difficulty": "easy"
+  },
+  {
+    "word": "thank",
+    "meaning": "cảm ơn",
+    "hint": "To say you are grateful",
+    "difficulty": "easy"
+  },
+  {
+    "word": "sorry",
+    "meaning": "xin lỗi",
+    "hint": "A word you say when you are wrong",
+    "difficulty": "easy"
+  },
+  {
+    "word": "hello",
+    "meaning": "xin chào",
+    "hint": "A word you say to greet someone",
+    "difficulty": "easy"
+  },
+  {
+    "word": "goodbye",
+    "meaning": "tạm biệt",
+    "hint": "A word you say when you leave",
+    "difficulty": "easy"
+  },
+  {
+    "word": "name",
+    "meaning": "tên",
+    "hint": "The word people call you",
+    "difficulty": "easy"
+  },
+  {
+    "word": "age",
+    "meaning": "tuổi",
+    "hint": "How old you are",
+    "difficulty": "easy"
+  },
+  {
+    "word": "number",
+    "meaning": "con số",
+    "hint": "A word such as one or two",
+    "difficulty": "easy"
+  },
+  {
+    "word": "word",
+    "meaning": "từ",
+    "hint": "A group of letters with a meaning",
+    "difficulty": "easy"
+  },
+  {
+    "word": "question",
+    "meaning": "câu hỏi",
+    "hint": "Something you ask",
+    "difficulty": "easy"
+  },
+  {
+    "word": "language",
+    "meaning": "ngôn ngữ",
+    "hint": "English or Vietnamese, for example",
+    "difficulty": "easy"
+  },
+  {
+    "word": "music",
+    "meaning": "âm nhạc",
+    "hint": "Sounds from instruments or voices",
+    "difficulty": "easy"
+  },
+  {
+    "word": "song",
+    "meaning": "bài hát",
+    "hint": "Words and music that you sing",
+    "difficulty": "easy"
+  },
+  {
+    "word": "game",
+    "meaning": "trò chơi",
+    "hint": "An activity you play for fun",
+    "difficulty": "easy"
+  },
+  {
+    "word": "party",
+    "meaning": "bữa tiệc",
+    "hint": "A group of people enjoying themselves",
+    "difficulty": "easy"
+  },
+  {
+    "word": "film",
+    "meaning": "bộ phim",
+    "hint": "A story you watch at the cinema",
+    "difficulty": "easy"
+  },
+  {
+    "word": "sport",
+    "meaning": "thể thao",
+    "hint": "Football or tennis, for example",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ball",
+    "meaning": "quả bóng",
+    "hint": "A round object used in games",
+    "difficulty": "easy"
+  },
+  {
+    "word": "team",
+    "meaning": "đội",
+    "hint": "A group of people who play together",
+    "difficulty": "easy"
+  },
+  {
+    "word": "lesson",
+    "meaning": "bài học",
+    "hint": "A time when you learn something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "class",
+    "meaning": "lớp học",
+    "hint": "A group of students who learn together",
+    "difficulty": "easy"
+  },
+  {
+    "word": "test",
+    "meaning": "bài kiểm tra",
+    "hint": "Questions to check what you know",
+    "difficulty": "easy"
+  },
+  {
+    "word": "job",
+    "meaning": "công việc",
+    "hint": "The work you do for money",
+    "difficulty": "easy"
+  },
+  {
+    "word": "office",
+    "meaning": "văn phòng",
+    "hint": "A place where people work at desks",
+    "difficulty": "easy"
+  },
+  {
+    "word": "country",
+    "meaning": "đất nước",
+    "hint": "A land with its own government",
+    "difficulty": "easy"
+  },
+  {
+    "word": "world",
+    "meaning": "thế giới",
+    "hint": "The Earth and all its people",
+    "difficulty": "easy"
+  },
+  {
+    "word": "place",
+    "meaning": "địa điểm",
+    "hint": "A particular area or position",
+    "difficulty": "easy"
+  },
+  {
+    "word": "thing",
+    "meaning": "đồ vật, thứ",
+    "hint": "An object or idea",
+    "difficulty": "easy"
+  },
+  {
+    "word": "life",
+    "meaning": "cuộc sống",
+    "hint": "The time you are alive",
+    "difficulty": "easy"
+  },
+  {
+    "word": "up",
+    "meaning": "lên",
+    "hint": "To a higher place",
+    "difficulty": "easy"
+  },
+  {
+    "word": "down",
+    "meaning": "xuống",
+    "hint": "To a lower place",
+    "difficulty": "easy"
+  },
+  {
+    "word": "in",
+    "meaning": "trong",
+    "hint": "Inside something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "out",
+    "meaning": "ra ngoài",
+    "hint": "Not inside",
+    "difficulty": "easy"
+  },
+  {
+    "word": "on",
+    "meaning": "trên",
+    "hint": "Above and touching",
+    "difficulty": "easy"
+  },
+  {
+    "word": "under",
+    "meaning": "dưới",
+    "hint": "Below something",
+    "difficulty": "easy"
+  },
+  {
+    "word": "near",
+    "meaning": "gần",
+    "hint": "Not far",
+    "difficulty": "easy"
+  },
+  {
+    "word": "far",
+    "meaning": "xa",
+    "hint": "A long distance away",
+    "difficulty": "easy"
+  },
+  {
+    "word": "here",
+    "meaning": "ở đây",
+    "hint": "In this place",
+    "difficulty": "easy"
+  },
+  {
+    "word": "there",
+    "meaning": "ở đó",
+    "hint": "In that place",
+    "difficulty": "easy"
+  },
+  {
+    "word": "where",
+    "meaning": "ở đâu",
+    "hint": "A word to ask about a place",
+    "difficulty": "easy"
+  },
+  {
+    "word": "what",
+    "meaning": "cái gì",
+    "hint": "A word to ask about a thing",
+    "difficulty": "easy"
+  },
+  {
+    "word": "who",
+    "meaning": "ai",
+    "hint": "A word to ask about a person",
+    "difficulty": "easy"
+  },
+  {
+    "word": "when",
+    "meaning": "khi nào",
+    "hint": "A word to ask about time",
+    "difficulty": "easy"
+  },
+  {
+    "word": "why",
+    "meaning": "tại sao",
+    "hint": "A word to ask about a reason",
+    "difficulty": "easy"
+  },
+  {
+    "word": "how",
+    "meaning": "như thế nào",
+    "hint": "A word to ask about the way",
+    "difficulty": "easy"
+  },
+  {
+    "word": "very",
+    "meaning": "rất",
+    "hint": "A word that makes things stronger",
+    "difficulty": "easy"
+  },
+  {
+    "word": "too",
+    "meaning": "quá, cũng",
+    "hint": "More than needed, or also",
+    "difficulty": "easy"
+  },
+  {
+    "word": "also",
+    "meaning": "cũng",
+    "hint": "In addition",
+    "difficulty": "easy"
+  },
+  {
+    "word": "and",
+    "meaning": "và",
+    "hint": "A word that joins things",
+    "difficulty": "easy"
+  },
+  {
+    "word": "but",
+    "meaning": "nhưng",
+    "hint": "A word that shows a difference",
+    "difficulty": "easy"
+  },
+  {
+    "word": "or",
+    "meaning": "hoặc",
+    "hint": "A word that shows a choice",
+    "difficulty": "easy"
+  },
+  {
+    "word": "because",
+    "meaning": "bởi vì",
+    "hint": "A word that gives a reason",
+    "difficulty": "easy"
+  },
+  {
+    "word": "with",
+    "meaning": "với",
+    "hint": "Together or having",
+    "difficulty": "easy"
+  },
+  {
+    "word": "without",
+    "meaning": "không có",
+    "hint": "Not having",
+    "difficulty": "easy"
+  },
+  {
+    "word": "for",
+    "meaning": "dành cho",
+    "hint": "A word that shows a purpose",
+    "difficulty": "easy"
+  },
+  {
+    "word": "from",
+    "meaning": "từ",
+    "hint": "A word that shows a starting point",
+    "difficulty": "easy"
+  },
+  {
+    "word": "always",
+    "meaning": "luôn luôn",
+    "hint": "Every time",
+    "difficulty": "easy"
+  },
+  {
+    "word": "never",
+    "meaning": "không bao giờ",
+    "hint": "Not at any time",
+    "difficulty": "easy"
+  },
+  {
+    "word": "often",
+    "meaning": "thường xuyên",
+    "hint": "Many times",
+    "difficulty": "easy"
+  },
+  {
+    "word": "sometimes",
+    "meaning": "đôi khi",
+    "hint": "Not always, but some times",
+    "difficulty": "easy"
+  },
+  {
+    "word": "again",
+    "meaning": "lại",
+    "hint": "One more time",
+    "difficulty": "easy"
+  },
+  {
+    "word": "now",
+    "meaning": "bây giờ",
+    "hint": "At this moment",
+    "difficulty": "easy"
+  },
+  {
+    "word": "then",
+    "meaning": "sau đó",
+    "hint": "At that time or next",
+    "difficulty": "easy"
+  },
+  {
+    "word": "soon",
+    "meaning": "sớm",
+    "hint": "In a short time",
+    "difficulty": "easy"
+  },
+  {
+    "word": "late",
+    "meaning": "muộn",
+    "hint": "After the usual time",
+    "difficulty": "easy"
+  },
+  {
+    "word": "early",
+    "meaning": "sớm",
+    "hint": "Before the usual time",
+    "difficulty": "easy"
+  },
+  {
+    "word": "you",
+    "meaning": "bạn",
+    "hint": "The person you speak to",
+    "difficulty": "easy"
+  },
+  {
+    "word": "he",
+    "meaning": "anh ấy",
+    "hint": "A male person",
+    "difficulty": "easy"
+  },
+  {
+    "word": "she",
+    "meaning": "cô ấy",
+    "hint": "A female person",
+    "difficulty": "easy"
+  },
+  {
+    "word": "we",
+    "meaning": "chúng tôi",
+    "hint": "You and I, or other people and I",
+    "difficulty": "easy"
+  },
+  {
+    "word": "they",
+    "meaning": "họ",
+    "hint": "Other people",
+    "difficulty": "easy"
+  },
+  {
+    "word": "it",
+    "meaning": "nó",
+    "hint": "A thing or an animal",
+    "difficulty": "easy"
+  },
+  {
+    "word": "this",
+    "meaning": "cái này",
+    "hint": "The thing near you",
+    "difficulty": "easy"
+  },
+  {
+    "word": "that",
+    "meaning": "cái đó",
+    "hint": "The thing far from you",
+    "difficulty": "easy"
+  },
+  {
+    "word": "my",
+    "meaning": "của tôi",
+    "hint": "Belonging to me",
+    "difficulty": "easy"
+  },
+  {
+    "word": "your",
+    "meaning": "của bạn",
+    "hint": "Belonging to you",
+    "difficulty": "easy"
+  },
+  {
+    "word": "address",
+    "meaning": "địa chỉ",
+    "hint": "The place where someone lives",
+    "difficulty": "medium"
+  },
+  {
+    "word": "adult",
+    "meaning": "người lớn",
+    "hint": "A person who is not a child",
+    "difficulty": "medium"
+  },
+  {
+    "word": "advice",
+    "meaning": "lời khuyên",
+    "hint": "Words that help you decide what to do",
+    "difficulty": "medium"
+  },
+  {
+    "word": "afraid",
+    "meaning": "sợ hãi",
+    "hint": "Feeling fear",
+    "difficulty": "medium"
+  },
+  {
+    "word": "agree",
+    "meaning": "đồng ý",
+    "hint": "To have the same opinion",
+    "difficulty": "medium"
+  },
+  {
+    "word": "alone",
+    "meaning": "một mình",
+    "hint": "Without other people",
+    "difficulty": "medium"
+  },
+  {
+    "word": "angry",
+    "meaning": "tức giận",
+    "hint": "Feeling very annoyed",
+    "difficulty": "medium"
+  },
+  {
+    "word": "appointment",
+    "meaning": "cuộc hẹn",
+    "hint": "A planned meeting at a fixed time",
+    "difficulty": "medium"
+  },
+  {
+    "word": "arrive",
+    "meaning": "đến nơi",
+    "hint": "To reach a place",
+    "difficulty": "medium"
+  },
+  {
+    "word": "art",
+    "meaning": "nghệ thuật",
+    "hint": "Painting, drawing and other creative work",
+    "difficulty": "medium"
+  },
+  {
+    "word": "article",
+    "meaning": "bài báo",
+    "hint": "A piece of writing in a newspaper",
+    "difficulty": "medium"
+  },
+  {
+    "word": "believe",
+    "meaning": "tin tưởng",
+    "hint": "To think something is true",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bill",
+    "meaning": "hóa đơn",
+    "hint": "A paper that shows how much you must pay",
+    "difficulty": "medium"
+  },
+  {
+    "word": "birthday",
+    "meaning": "sinh nhật",
+    "hint": "The day you were born each year",
+    "difficulty": "medium"
+  },
+  {
+    "word": "boring",
+    "meaning": "nhàm chán",
+    "hint": "Not interesting",
+    "difficulty": "medium"
+  },
+  {
+    "word": "borrow",
+    "meaning": "mượn",
+    "hint": "To take something and give it back later",
+    "difficulty": "medium"
+  },
+  {
+    "word": "boss",
+    "meaning": "sếp",
+    "hint": "The person in charge at work",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bottle",
+    "meaning": "chai",
+    "hint": "A container for drinks",
+    "difficulty": "medium"
+  },
+  {
+    "word": "brave",
+    "meaning": "dũng cảm",
+    "hint": "Not afraid of danger",
+    "difficulty": "medium"
+  },
+  {
+    "word": "bright",
+    "meaning": "sáng",
+    "hint": "Giving a lot of light",
+    "difficulty": "medium"
+  },
+  {
+    "word": "build",
+    "meaning": "xây dựng",
+    "hint": "To make a house or a building",
+    "difficulty": "medium"
+  },
+  {
+    "word": "business",
+    "meaning": "kinh doanh",
+    "hint": "The work of buying and selling things",
+    "difficulty": "medium"
+  },
+  {
+    "word": "calm",
+    "meaning": "bình tĩnh",
+    "hint": "Quiet and not worried",
+    "difficulty": "medium"
+  },
+  {
+    "word": "cancel",
+    "meaning": "hủy bỏ",
+    "hint": "To say that something will not happen",
+    "difficulty": "medium"
+  },
+  {
+    "word": "capital",
+    "meaning": "thủ đô",
+    "hint": "The main city of a country",
+    "difficulty": "medium"
+  },
+  {
+    "word": "careful",
+    "meaning": "cẩn thận",
+    "hint": "Thinking about what you do",
+    "difficulty": "medium"
+  },
+  {
+    "word": "catch",
+    "meaning": "bắt",
+    "hint": "To get hold of something moving",
+    "difficulty": "medium"
+  },
+  {
+    "word": "center",
+    "meaning": "trung tâm",
+    "hint": "The middle of something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "chance",
+    "meaning": "cơ hội",
+    "hint": "A possibility that something may happen",
+    "difficulty": "medium"
+  },
+  {
+    "word": "change",
+    "meaning": "thay đổi",
+    "hint": "To become different",
+    "difficulty": "medium"
+  },
+  {
+    "word": "check",
+    "meaning": "kiểm tra",
+    "hint": "To make sure that something is right",
+    "difficulty": "medium"
+  },
+  {
+    "word": "chocolate",
+    "meaning": "sô cô la",
+    "hint": "A sweet brown food",
+    "difficulty": "medium"
+  },
+  {
+    "word": "choose",
+    "meaning": "chọn",
+    "hint": "To pick something from many things",
+    "difficulty": "medium"
+  },
+  {
+    "word": "cinema",
+    "meaning": "rạp chiếu phim",
+    "hint": "A place where you watch films",
+    "difficulty": "medium"
+  },
+  {
+    "word": "climb",
+    "meaning": "leo",
+    "hint": "To go up something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "college",
+    "meaning": "trường cao đẳng",
+    "hint": "A place where people study after school",
+    "difficulty": "medium"
+  },
+  {
+    "word": "comfortable",
+    "meaning": "thoải mái",
+    "hint": "Giving a feeling of ease",
+    "difficulty": "medium"
+  },
+  {
+    "word": "compare",
+    "meaning": "so sánh",
+    "hint": "To look at how things are different or similar",
+    "difficulty": "medium"
+  },
+  {
+    "word": "complete",
+    "meaning": "hoàn thành",
+    "hint": "To finish something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "concert",
+    "meaning": "buổi hòa nhạc",
+    "hint": "A live music show",
+    "difficulty": "medium"
+  },
+  {
+    "word": "continue",
+    "meaning": "tiếp tục",
+    "hint": "To keep doing something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "cool",
+    "meaning": "mát mẻ",
+    "hint": "A little cold in a nice way",
+    "difficulty": "medium"
+  },
+  {
+    "word": "copy",
+    "meaning": "sao chép",
+    "hint": "To make something the same as another",
+    "difficulty": "medium"
+  },
+  {
+    "word": "corner",
+    "meaning": "góc",
+    "hint": "The place where two lines or walls meet",
+    "difficulty": "medium"
+  },
+  {
+    "word": "cost",
+    "meaning": "có giá",
+    "hint": "To need an amount of money",
+    "difficulty": "medium"
+  },
+  {
+    "word": "count",
+    "meaning": "đếm",
+    "hint": "To say numbers in order",
+    "difficulty": "medium"
+  },
+  {
+    "word": "course",
+    "meaning": "khóa học",
+    "hint": "A series of lessons",
+    "difficulty": "medium"
+  },
+  {
+    "word": "crazy",
+    "meaning": "điên rồ",
+    "hint": "Very silly or strange",
+    "difficulty": "medium"
+  },
+  {
+    "word": "cup",
+    "meaning": "cái tách",
+    "hint": "A small container for drinks",
+    "difficulty": "medium"
+  },
+  {
+    "word": "customer",
+    "meaning": "khách hàng",
+    "hint": "A person who buys things in a shop",
+    "difficulty": "medium"
+  },
+  {
+    "word": "cut",
+    "meaning": "cắt",
+    "hint": "To divide with a knife",
+    "difficulty": "medium"
+  },
+  {
+    "word": "dangerous",
+    "meaning": "nguy hiểm",
+    "hint": "Likely to hurt you",
+    "difficulty": "medium"
+  },
+  {
+    "word": "dark",
+    "meaning": "tối",
+    "hint": "Without light",
+    "difficulty": "medium"
+  },
+  {
+    "word": "date",
+    "meaning": "ngày tháng",
+    "hint": "The day, month and year",
+    "difficulty": "medium"
+  },
+  {
+    "word": "dead",
+    "meaning": "đã chết",
+    "hint": "Not alive",
+    "difficulty": "medium"
+  },
+  {
+    "word": "decide",
+    "meaning": "quyết định",
+    "hint": "To choose what to do",
+    "difficulty": "medium"
+  },
+  {
+    "word": "delicious",
+    "meaning": "ngon",
+    "hint": "Tasting very good",
+    "difficulty": "medium"
+  },
+  {
+    "word": "desk",
+    "meaning": "bàn làm việc",
+    "hint": "A table for work or study",
+    "difficulty": "medium"
+  },
+  {
+    "word": "difficult",
+    "meaning": "khó khăn",
+    "hint": "Not easy",
+    "difficulty": "medium"
+  },
+  {
+    "word": "direction",
+    "meaning": "phương hướng",
+    "hint": "The way you go",
+    "difficulty": "medium"
+  },
+  {
+    "word": "discuss",
+    "meaning": "thảo luận",
+    "hint": "To talk about something with others",
+    "difficulty": "medium"
+  },
+  {
+    "word": "dish",
+    "meaning": "món ăn",
+    "hint": "Food prepared in a certain way",
+    "difficulty": "medium"
+  },
+  {
+    "word": "dream",
+    "meaning": "giấc mơ",
+    "hint": "Pictures in your mind when you sleep",
+    "difficulty": "medium"
+  },
+  {
+    "word": "drop",
+    "meaning": "làm rơi",
+    "hint": "To let something fall",
+    "difficulty": "medium"
+  },
+  {
+    "word": "during",
+    "meaning": "trong suốt",
+    "hint": "At the same time as something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "earth",
+    "meaning": "trái đất",
+    "hint": "The planet we live on",
+    "difficulty": "medium"
+  },
+  {
+    "word": "east",
+    "meaning": "hướng đông",
+    "hint": "Where the sun comes up",
+    "difficulty": "medium"
+  },
+  {
+    "word": "education",
+    "meaning": "giáo dục",
+    "hint": "The process of learning in school",
+    "difficulty": "medium"
+  },
+  {
+    "word": "email",
+    "meaning": "thư điện tử",
+    "hint": "A message sent by computer",
+    "difficulty": "medium"
+  },
+  {
+    "word": "end",
+    "meaning": "kết thúc",
+    "hint": "The last part",
+    "difficulty": "medium"
+  },
+  {
+    "word": "energy",
+    "meaning": "năng lượng",
+    "hint": "Power to do things",
+    "difficulty": "medium"
+  },
+  {
+    "word": "enjoy",
+    "meaning": "tận hưởng",
+    "hint": "To like doing something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "enough",
+    "meaning": "đủ",
+    "hint": "As much as you need",
+    "difficulty": "medium"
+  },
+  {
+    "word": "enter",
+    "meaning": "bước vào",
+    "hint": "To go into a place",
+    "difficulty": "medium"
+  },
+  {
+    "word": "environment",
+    "meaning": "môi trường",
+    "hint": "The air, water and land around us",
+    "difficulty": "medium"
+  },
+  {
+    "word": "event",
+    "meaning": "sự kiện",
+    "hint": "Something important that happens",
+    "difficulty": "medium"
+  },
+  {
+    "word": "exam",
+    "meaning": "kỳ thi",
+    "hint": "A big test",
+    "difficulty": "medium"
+  },
+  {
+    "word": "example",
+    "meaning": "ví dụ",
+    "hint": "Something that shows what you mean",
+    "difficulty": "medium"
+  },
+  {
+    "word": "excellent",
+    "meaning": "xuất sắc",
+    "hint": "Very very good",
+    "difficulty": "medium"
+  },
+  {
+    "word": "excited",
+    "meaning": "hào hứng",
+    "hint": "Feeling happy about something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "exciting",
+    "meaning": "thú vị",
+    "hint": "Making you feel happy and interested",
+    "difficulty": "medium"
+  },
+  {
+    "word": "excuse",
+    "meaning": "lời bào chữa",
+    "hint": "A reason you give for a mistake",
+    "difficulty": "medium"
+  },
+  {
+    "word": "exercise",
+    "meaning": "bài tập, tập thể dục",
+    "hint": "Physical activity to stay fit",
+    "difficulty": "medium"
+  },
+  {
+    "word": "expect",
+    "meaning": "mong đợi",
+    "hint": "To think that something will happen",
+    "difficulty": "medium"
+  },
+  {
+    "word": "explain",
+    "meaning": "giải thích",
+    "hint": "To make something clear",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fall",
+    "meaning": "ngã, rơi",
+    "hint": "To go down quickly",
+    "difficulty": "medium"
+  },
+  {
+    "word": "farm",
+    "meaning": "nông trại",
+    "hint": "Land used for growing food or keeping animals",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fashion",
+    "meaning": "thời trang",
+    "hint": "Popular styles of clothes",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fat",
+    "meaning": "béo",
+    "hint": "Having a lot of body weight",
+    "difficulty": "medium"
+  },
+  {
+    "word": "feel",
+    "meaning": "cảm thấy",
+    "hint": "To have an emotion or touch",
+    "difficulty": "medium"
+  },
+  {
+    "word": "festival",
+    "meaning": "lễ hội",
+    "hint": "A special day or time of celebration",
+    "difficulty": "medium"
+  },
+  {
+    "word": "field",
+    "meaning": "cánh đồng",
+    "hint": "An area of land with grass or crops",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fill",
+    "meaning": "làm đầy",
+    "hint": "To make something full",
+    "difficulty": "medium"
+  },
+  {
+    "word": "finish",
+    "meaning": "kết thúc",
+    "hint": "To complete something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fire",
+    "meaning": "lửa",
+    "hint": "Heat and bright flames",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fit",
+    "meaning": "vừa vặn",
+    "hint": "The right size",
+    "difficulty": "medium"
+  },
+  {
+    "word": "flat",
+    "meaning": "căn hộ",
+    "hint": "A set of rooms in a building",
+    "difficulty": "medium"
+  },
+  {
+    "word": "flight",
+    "meaning": "chuyến bay",
+    "hint": "A journey on a plane",
+    "difficulty": "medium"
+  },
+  {
+    "word": "follow",
+    "meaning": "đi theo",
+    "hint": "To go behind someone",
+    "difficulty": "medium"
+  },
+  {
+    "word": "foreign",
+    "meaning": "nước ngoài",
+    "hint": "From another country",
+    "difficulty": "medium"
+  },
+  {
+    "word": "forest",
+    "meaning": "khu rừng",
+    "hint": "A large area with many trees",
+    "difficulty": "medium"
+  },
+  {
+    "word": "forget",
+    "meaning": "quên",
+    "hint": "To not remember",
+    "difficulty": "medium"
+  },
+  {
+    "word": "form",
+    "meaning": "mẫu đơn",
+    "hint": "A paper with spaces to fill in",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fresh",
+    "meaning": "tươi",
+    "hint": "New and not old",
+    "difficulty": "medium"
+  },
+  {
+    "word": "fun",
+    "meaning": "niềm vui",
+    "hint": "Something enjoyable",
+    "difficulty": "medium"
+  },
+  {
+    "word": "future",
+    "meaning": "tương lai",
+    "hint": "The time that will come",
+    "difficulty": "medium"
+  },
+  {
+    "word": "gift",
+    "meaning": "món quà",
+    "hint": "Something you give to someone",
+    "difficulty": "medium"
+  },
+  {
+    "word": "glass",
+    "meaning": "ly, thủy tinh",
+    "hint": "A hard clear material, or a cup made of it",
+    "difficulty": "medium"
+  },
+  {
+    "word": "goal",
+    "meaning": "bàn thắng, mục tiêu",
+    "hint": "A point in sport, or something you want to do",
+    "difficulty": "medium"
+  },
+  {
+    "word": "gold",
+    "meaning": "vàng",
+    "hint": "A yellow and valuable metal",
+    "difficulty": "medium"
+  },
+  {
+    "word": "grass",
+    "meaning": "cỏ",
+    "hint": "Green plants that cover the ground",
+    "difficulty": "medium"
+  },
+  {
+    "word": "great",
+    "meaning": "tuyệt vời",
+    "hint": "Very good",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ground",
+    "meaning": "mặt đất",
+    "hint": "The surface of the earth",
+    "difficulty": "medium"
+  },
+  {
+    "word": "group",
+    "meaning": "nhóm",
+    "hint": "Several people or things together",
+    "difficulty": "medium"
+  },
+  {
+    "word": "guess",
+    "meaning": "đoán",
+    "hint": "To give an answer without knowing",
+    "difficulty": "medium"
+  },
+  {
+    "word": "guest",
+    "meaning": "khách",
+    "hint": "A person who visits your home or hotel",
+    "difficulty": "medium"
+  },
+  {
+    "word": "guide",
+    "meaning": "hướng dẫn viên",
+    "hint": "A person who shows places to visitors",
+    "difficulty": "medium"
+  },
+  {
+    "word": "habit",
+    "meaning": "thói quen",
+    "hint": "Something you do often",
+    "difficulty": "medium"
+  },
+  {
+    "word": "half",
+    "meaning": "một nửa",
+    "hint": "One of two equal parts",
+    "difficulty": "medium"
+  },
+  {
+    "word": "happen",
+    "meaning": "xảy ra",
+    "hint": "To take place",
+    "difficulty": "medium"
+  },
+  {
+    "word": "hate",
+    "meaning": "ghét",
+    "hint": "To dislike very much",
+    "difficulty": "medium"
+  },
+  {
+    "word": "health",
+    "meaning": "sức khỏe",
+    "hint": "The condition of your body",
+    "difficulty": "medium"
+  },
+  {
+    "word": "healthy",
+    "meaning": "khỏe mạnh",
+    "hint": "Not ill and in good condition",
+    "difficulty": "medium"
+  },
+  {
+    "word": "heart",
+    "meaning": "trái tim",
+    "hint": "The part inside your chest that pumps blood",
+    "difficulty": "medium"
+  },
+  {
+    "word": "heat",
+    "meaning": "sức nóng",
+    "hint": "The quality of being hot",
+    "difficulty": "medium"
+  },
+  {
+    "word": "helpful",
+    "meaning": "hữu ích",
+    "hint": "Giving help",
+    "difficulty": "medium"
+  },
+  {
+    "word": "hobby",
+    "meaning": "sở thích",
+    "hint": "An activity you do for fun",
+    "difficulty": "medium"
+  },
+  {
+    "word": "holiday",
+    "meaning": "kỳ nghỉ",
+    "hint": "A time when you do not work",
+    "difficulty": "medium"
+  },
+  {
+    "word": "honest",
+    "meaning": "trung thực",
+    "hint": "Telling the truth",
+    "difficulty": "medium"
+  },
+  {
+    "word": "hope",
+    "meaning": "hy vọng",
+    "hint": "To want something to happen",
+    "difficulty": "medium"
+  },
+  {
+    "word": "horrible",
+    "meaning": "kinh khủng",
+    "hint": "Very bad",
+    "difficulty": "medium"
+  },
+  {
+    "word": "hurry",
+    "meaning": "vội vàng",
+    "hint": "To move or act fast",
+    "difficulty": "medium"
+  },
+  {
+    "word": "hurt",
+    "meaning": "làm đau",
+    "hint": "To cause pain",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ice",
+    "meaning": "đá, băng",
+    "hint": "Frozen water",
+    "difficulty": "medium"
+  },
+  {
+    "word": "idea",
+    "meaning": "ý tưởng",
+    "hint": "A thought or plan",
+    "difficulty": "medium"
+  },
+  {
+    "word": "important",
+    "meaning": "quan trọng",
+    "hint": "Having great value",
+    "difficulty": "medium"
+  },
+  {
+    "word": "include",
+    "meaning": "bao gồm",
+    "hint": "To have as a part",
+    "difficulty": "medium"
+  },
+  {
+    "word": "information",
+    "meaning": "thông tin",
+    "hint": "Facts about something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "instead",
+    "meaning": "thay vào đó",
+    "hint": "In place of something else",
+    "difficulty": "medium"
+  },
+  {
+    "word": "interested",
+    "meaning": "quan tâm",
+    "hint": "Wanting to know more",
+    "difficulty": "medium"
+  },
+  {
+    "word": "interesting",
+    "meaning": "thú vị",
+    "hint": "Making you want to know more",
+    "difficulty": "medium"
+  },
+  {
+    "word": "internet",
+    "meaning": "mạng internet",
+    "hint": "A worldwide computer network",
+    "difficulty": "medium"
+  },
+  {
+    "word": "introduce",
+    "meaning": "giới thiệu",
+    "hint": "To tell people someone's name",
+    "difficulty": "medium"
+  },
+  {
+    "word": "invite",
+    "meaning": "mời",
+    "hint": "To ask someone to come",
+    "difficulty": "medium"
+  },
+  {
+    "word": "island",
+    "meaning": "hòn đảo",
+    "hint": "Land with water all around",
+    "difficulty": "medium"
+  },
+  {
+    "word": "join",
+    "meaning": "tham gia",
+    "hint": "To become part of a group",
+    "difficulty": "medium"
+  },
+  {
+    "word": "journey",
+    "meaning": "chuyến đi",
+    "hint": "A trip from one place to another",
+    "difficulty": "medium"
+  },
+  {
+    "word": "kid",
+    "meaning": "đứa trẻ",
+    "hint": "A child",
+    "difficulty": "medium"
+  },
+  {
+    "word": "land",
+    "meaning": "đất liền",
+    "hint": "The ground, not the sea",
+    "difficulty": "medium"
+  },
+  {
+    "word": "large",
+    "meaning": "rộng lớn",
+    "hint": "Big in size",
+    "difficulty": "medium"
+  },
+  {
+    "word": "lazy",
+    "meaning": "lười biếng",
+    "hint": "Not wanting to work",
+    "difficulty": "medium"
+  },
+  {
+    "word": "leave",
+    "meaning": "rời đi",
+    "hint": "To go away from a place",
+    "difficulty": "medium"
+  },
+  {
+    "word": "letter",
+    "meaning": "lá thư",
+    "hint": "A message written on paper",
+    "difficulty": "medium"
+  },
+  {
+    "word": "library",
+    "meaning": "thư viện",
+    "hint": "A place where you borrow books",
+    "difficulty": "medium"
+  },
+  {
+    "word": "line",
+    "meaning": "đường kẻ, hàng",
+    "hint": "A long thin mark or a row of people",
+    "difficulty": "medium"
+  },
+  {
+    "word": "list",
+    "meaning": "danh sách",
+    "hint": "A set of names or things written down",
+    "difficulty": "medium"
+  },
+  {
+    "word": "local",
+    "meaning": "địa phương",
+    "hint": "Belonging to a particular area",
+    "difficulty": "medium"
+  },
+  {
+    "word": "luck",
+    "meaning": "may mắn",
+    "hint": "Good things that happen by chance",
+    "difficulty": "medium"
+  },
+  {
+    "word": "machine",
+    "meaning": "máy móc",
+    "hint": "A thing that does work using power",
+    "difficulty": "medium"
+  },
+  {
+    "word": "main",
+    "meaning": "chính",
+    "hint": "Most important",
+    "difficulty": "medium"
+  },
+  {
+    "word": "manager",
+    "meaning": "quản lý",
+    "hint": "A person who controls a business or team",
+    "difficulty": "medium"
+  },
+  {
+    "word": "match",
+    "meaning": "trận đấu",
+    "hint": "A game between two teams",
+    "difficulty": "medium"
+  },
+  {
+    "word": "meal",
+    "meaning": "bữa ăn",
+    "hint": "Food eaten at one time",
+    "difficulty": "medium"
+  },
+  {
+    "word": "medicine",
+    "meaning": "thuốc",
+    "hint": "Something you take when you are ill",
+    "difficulty": "medium"
+  },
+  {
+    "word": "meeting",
+    "meaning": "cuộc họp",
+    "hint": "A time when people come together to talk",
+    "difficulty": "medium"
+  },
+  {
+    "word": "member",
+    "meaning": "thành viên",
+    "hint": "A person who belongs to a group",
+    "difficulty": "medium"
+  },
+  {
+    "word": "message",
+    "meaning": "tin nhắn",
+    "hint": "Words that you send to someone",
+    "difficulty": "medium"
+  },
+  {
+    "word": "middle",
+    "meaning": "ở giữa",
+    "hint": "The central part",
+    "difficulty": "medium"
+  },
+  {
+    "word": "mind",
+    "meaning": "tâm trí",
+    "hint": "Your thoughts",
+    "difficulty": "medium"
+  },
+  {
+    "word": "minute",
+    "meaning": "phút",
+    "hint": "A period of sixty seconds",
+    "difficulty": "medium"
+  },
+  {
+    "word": "miss",
+    "meaning": "nhớ, lỡ",
+    "hint": "To feel sad that someone is not here",
+    "difficulty": "medium"
+  },
+  {
+    "word": "mistake",
+    "meaning": "lỗi",
+    "hint": "Something that is wrong",
+    "difficulty": "medium"
+  },
+  {
+    "word": "modern",
+    "meaning": "hiện đại",
+    "hint": "Of the present time",
+    "difficulty": "medium"
+  },
+  {
+    "word": "moment",
+    "meaning": "khoảnh khắc",
+    "hint": "A very short time",
+    "difficulty": "medium"
+  },
+  {
+    "word": "movie",
+    "meaning": "phim",
+    "hint": "A story shown on a screen",
+    "difficulty": "medium"
+  },
+  {
+    "word": "neighbor",
+    "meaning": "hàng xóm",
+    "hint": "A person who lives near you",
+    "difficulty": "medium"
+  },
+  {
+    "word": "nervous",
+    "meaning": "lo lắng",
+    "hint": "Feeling worried or afraid",
+    "difficulty": "medium"
+  },
+  {
+    "word": "news",
+    "meaning": "tin tức",
+    "hint": "New information about events",
+    "difficulty": "medium"
+  },
+  {
+    "word": "newspaper",
+    "meaning": "tờ báo",
+    "hint": "Printed pages with the news",
+    "difficulty": "medium"
+  },
+  {
+    "word": "noise",
+    "meaning": "tiếng ồn",
+    "hint": "A loud or unpleasant sound",
+    "difficulty": "medium"
+  },
+  {
+    "word": "north",
+    "meaning": "hướng bắc",
+    "hint": "The direction opposite south",
+    "difficulty": "medium"
+  },
+  {
+    "word": "note",
+    "meaning": "ghi chú",
+    "hint": "A short piece of writing",
+    "difficulty": "medium"
+  },
+  {
+    "word": "nothing",
+    "meaning": "không có gì",
+    "hint": "Not anything",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ocean",
+    "meaning": "đại dương",
+    "hint": "A very large sea",
+    "difficulty": "medium"
+  },
+  {
+    "word": "offer",
+    "meaning": "đề nghị",
+    "hint": "To say you will give something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "officer",
+    "meaning": "sĩ quan, viên chức",
+    "hint": "A person with an important job",
+    "difficulty": "medium"
+  },
+  {
+    "word": "once",
+    "meaning": "một lần",
+    "hint": "One time",
+    "difficulty": "medium"
+  },
+  {
+    "word": "order",
+    "meaning": "gọi món, thứ tự",
+    "hint": "To ask for food, or the way things are arranged",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ordinary",
+    "meaning": "bình thường",
+    "hint": "Not special",
+    "difficulty": "medium"
+  },
+  {
+    "word": "outside",
+    "meaning": "bên ngoài",
+    "hint": "Not inside a building",
+    "difficulty": "medium"
+  },
+  {
+    "word": "page",
+    "meaning": "trang giấy",
+    "hint": "One side of a sheet in a book",
+    "difficulty": "medium"
+  },
+  {
+    "word": "pain",
+    "meaning": "cơn đau",
+    "hint": "An unpleasant feeling in your body",
+    "difficulty": "medium"
+  },
+  {
+    "word": "parent",
+    "meaning": "cha mẹ",
+    "hint": "A mother or a father",
+    "difficulty": "medium"
+  },
+  {
+    "word": "partner",
+    "meaning": "đối tác",
+    "hint": "A person you do something with",
+    "difficulty": "medium"
+  },
+  {
+    "word": "passport",
+    "meaning": "hộ chiếu",
+    "hint": "A document you need to travel abroad",
+    "difficulty": "medium"
+  },
+  {
+    "word": "past",
+    "meaning": "quá khứ",
+    "hint": "The time before now",
+    "difficulty": "medium"
+  },
+  {
+    "word": "path",
+    "meaning": "lối đi",
+    "hint": "A narrow way for walking",
+    "difficulty": "medium"
+  },
+  {
+    "word": "patient",
+    "meaning": "bệnh nhân",
+    "hint": "A person who gets medical care",
+    "difficulty": "medium"
+  },
+  {
+    "word": "perfect",
+    "meaning": "hoàn hảo",
+    "hint": "Without any mistakes",
+    "difficulty": "medium"
+  },
+  {
+    "word": "perhaps",
+    "meaning": "có lẽ",
+    "hint": "Maybe",
+    "difficulty": "medium"
+  },
+  {
+    "word": "photo",
+    "meaning": "bức ảnh",
+    "hint": "A picture taken with a camera",
+    "difficulty": "medium"
+  },
+  {
+    "word": "pick",
+    "meaning": "chọn, hái",
+    "hint": "To choose or take with your fingers",
+    "difficulty": "medium"
+  },
+  {
+    "word": "picnic",
+    "meaning": "buổi dã ngoại",
+    "hint": "A meal eaten outside",
+    "difficulty": "medium"
+  },
+  {
+    "word": "piece",
+    "meaning": "mảnh",
+    "hint": "A part of something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "plan",
+    "meaning": "kế hoạch",
+    "hint": "An idea about what you will do",
+    "difficulty": "medium"
+  },
+  {
+    "word": "plant",
+    "meaning": "cây trồng",
+    "hint": "A living thing that grows in soil",
+    "difficulty": "medium"
+  },
+  {
+    "word": "pleasant",
+    "meaning": "dễ chịu",
+    "hint": "Nice and enjoyable",
+    "difficulty": "medium"
+  },
+  {
+    "word": "point",
+    "meaning": "điểm, chỉ",
+    "hint": "A small mark, or to show with a finger",
+    "difficulty": "medium"
+  },
+  {
+    "word": "polite",
+    "meaning": "lịch sự",
+    "hint": "Having good manners",
+    "difficulty": "medium"
+  },
+  {
+    "word": "poor",
+    "meaning": "nghèo",
+    "hint": "Having very little money",
+    "difficulty": "medium"
+  },
+  {
+    "word": "popular",
+    "meaning": "phổ biến",
+    "hint": "Liked by many people",
+    "difficulty": "medium"
+  },
+  {
+    "word": "practice",
+    "meaning": "luyện tập",
+    "hint": "To do something again to get better",
+    "difficulty": "medium"
+  },
+  {
+    "word": "prefer",
+    "meaning": "thích hơn",
+    "hint": "To like one more than another",
+    "difficulty": "medium"
+  },
+  {
+    "word": "prepare",
+    "meaning": "chuẩn bị",
+    "hint": "To get ready",
+    "difficulty": "medium"
+  },
+  {
+    "word": "present",
+    "meaning": "món quà, hiện tại",
+    "hint": "A gift, or the time now",
+    "difficulty": "medium"
+  },
+  {
+    "word": "pretty",
+    "meaning": "xinh xắn",
+    "hint": "Nice to look at",
+    "difficulty": "medium"
+  },
+  {
+    "word": "problem",
+    "meaning": "vấn đề",
+    "hint": "Something difficult that needs a solution",
+    "difficulty": "medium"
+  },
+  {
+    "word": "program",
+    "meaning": "chương trình",
+    "hint": "A show, or a set of computer instructions",
+    "difficulty": "medium"
+  },
+  {
+    "word": "project",
+    "meaning": "dự án",
+    "hint": "A piece of planned work",
+    "difficulty": "medium"
+  },
+  {
+    "word": "promise",
+    "meaning": "lời hứa",
+    "hint": "To say that you will really do something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "protect",
+    "meaning": "bảo vệ",
+    "hint": "To keep safe from harm",
+    "difficulty": "medium"
+  },
+  {
+    "word": "proud",
+    "meaning": "tự hào",
+    "hint": "Feeling pleased about something good",
+    "difficulty": "medium"
+  },
+  {
+    "word": "public",
+    "meaning": "công cộng",
+    "hint": "For everyone",
+    "difficulty": "medium"
+  },
+  {
+    "word": "pull",
+    "meaning": "kéo",
+    "hint": "To move something toward you",
+    "difficulty": "medium"
+  },
+  {
+    "word": "push",
+    "meaning": "đẩy",
+    "hint": "To move something away from you",
+    "difficulty": "medium"
+  },
+  {
+    "word": "quarter",
+    "meaning": "một phần tư",
+    "hint": "One of four equal parts",
+    "difficulty": "medium"
+  },
+  {
+    "word": "quick",
+    "meaning": "nhanh",
+    "hint": "Done in a short time",
+    "difficulty": "medium"
+  },
+  {
+    "word": "raise",
+    "meaning": "nâng lên",
+    "hint": "To lift something up",
+    "difficulty": "medium"
+  },
+  {
+    "word": "reach",
+    "meaning": "với tới",
+    "hint": "To arrive at or touch",
+    "difficulty": "medium"
+  },
+  {
+    "word": "real",
+    "meaning": "thật",
+    "hint": "Not false",
+    "difficulty": "medium"
+  },
+  {
+    "word": "receive",
+    "meaning": "nhận",
+    "hint": "To get something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "record",
+    "meaning": "ghi lại",
+    "hint": "To keep sound or facts for later",
+    "difficulty": "medium"
+  },
+  {
+    "word": "reduce",
+    "meaning": "giảm",
+    "hint": "To make smaller",
+    "difficulty": "medium"
+  },
+  {
+    "word": "relax",
+    "meaning": "thư giãn",
+    "hint": "To rest and feel calm",
+    "difficulty": "medium"
+  },
+  {
+    "word": "remember",
+    "meaning": "nhớ",
+    "hint": "To keep in your mind",
+    "difficulty": "medium"
+  },
+  {
+    "word": "remind",
+    "meaning": "nhắc nhở",
+    "hint": "To help someone remember",
+    "difficulty": "medium"
+  },
+  {
+    "word": "rent",
+    "meaning": "thuê",
+    "hint": "To pay to use a house or car",
+    "difficulty": "medium"
+  },
+  {
+    "word": "repair",
+    "meaning": "sửa chữa",
+    "hint": "To fix something broken",
+    "difficulty": "medium"
+  },
+  {
+    "word": "repeat",
+    "meaning": "lặp lại",
+    "hint": "To say or do again",
+    "difficulty": "medium"
+  },
+  {
+    "word": "reply",
+    "meaning": "trả lời",
+    "hint": "To answer",
+    "difficulty": "medium"
+  },
+  {
+    "word": "report",
+    "meaning": "báo cáo",
+    "hint": "A text that gives information",
+    "difficulty": "medium"
+  },
+  {
+    "word": "rest",
+    "meaning": "nghỉ ngơi",
+    "hint": "To stop working and relax",
+    "difficulty": "medium"
+  },
+  {
+    "word": "result",
+    "meaning": "kết quả",
+    "hint": "What happens because of something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "return",
+    "meaning": "trở về",
+    "hint": "To go or come back",
+    "difficulty": "medium"
+  },
+  {
+    "word": "rich",
+    "meaning": "giàu",
+    "hint": "Having a lot of money",
+    "difficulty": "medium"
+  },
+  {
+    "word": "rise",
+    "meaning": "tăng lên",
+    "hint": "To go up",
+    "difficulty": "medium"
+  },
+  {
+    "word": "round",
+    "meaning": "tròn",
+    "hint": "Shaped like a circle",
+    "difficulty": "medium"
+  },
+  {
+    "word": "rule",
+    "meaning": "quy tắc",
+    "hint": "An instruction about what to do",
+    "difficulty": "medium"
+  },
+  {
+    "word": "safe",
+    "meaning": "an toàn",
+    "hint": "Not in danger",
+    "difficulty": "medium"
+  },
+  {
+    "word": "sale",
+    "meaning": "giảm giá",
+    "hint": "A time when things cost less",
+    "difficulty": "medium"
+  },
+  {
+    "word": "save",
+    "meaning": "tiết kiệm, cứu",
+    "hint": "To keep money, or to help someone out of danger",
+    "difficulty": "medium"
+  },
+  {
+    "word": "scared",
+    "meaning": "sợ hãi",
+    "hint": "Frightened",
+    "difficulty": "medium"
+  },
+  {
+    "word": "science",
+    "meaning": "khoa học",
+    "hint": "The study of nature and the world",
+    "difficulty": "medium"
+  },
+  {
+    "word": "score",
+    "meaning": "điểm số",
+    "hint": "The number of points in a game",
+    "difficulty": "medium"
+  },
+  {
+    "word": "search",
+    "meaning": "tìm kiếm",
+    "hint": "To look for something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "season",
+    "meaning": "mùa",
+    "hint": "Spring, summer, autumn or winter",
+    "difficulty": "medium"
+  },
+  {
+    "word": "seat",
+    "meaning": "chỗ ngồi",
+    "hint": "A place to sit",
+    "difficulty": "medium"
+  },
+  {
+    "word": "second",
+    "meaning": "giây, thứ hai",
+    "hint": "A very short time, or after the first",
+    "difficulty": "medium"
+  },
+  {
+    "word": "secret",
+    "meaning": "bí mật",
+    "hint": "Something that other people do not know",
+    "difficulty": "medium"
+  },
+  {
+    "word": "serious",
+    "meaning": "nghiêm túc",
+    "hint": "Not funny or very important",
+    "difficulty": "medium"
+  },
+  {
+    "word": "serve",
+    "meaning": "phục vụ",
+    "hint": "To give food or drink to people",
+    "difficulty": "medium"
+  },
+  {
+    "word": "set",
+    "meaning": "bộ, đặt",
+    "hint": "A group of things, or to put somewhere",
+    "difficulty": "medium"
+  },
+  {
+    "word": "shake",
+    "meaning": "lắc",
+    "hint": "To move quickly up and down",
+    "difficulty": "medium"
+  },
+  {
+    "word": "shape",
+    "meaning": "hình dạng",
+    "hint": "The outside form of something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "share",
+    "meaning": "chia sẻ",
+    "hint": "To give part to others",
+    "difficulty": "medium"
+  },
+  {
+    "word": "shine",
+    "meaning": "tỏa sáng",
+    "hint": "To give out light",
+    "difficulty": "medium"
+  },
+  {
+    "word": "shout",
+    "meaning": "hét",
+    "hint": "To speak very loudly",
+    "difficulty": "medium"
+  },
+  {
+    "word": "sign",
+    "meaning": "biển báo, ký",
+    "hint": "A board with information, or to write your name",
+    "difficulty": "medium"
+  },
+  {
+    "word": "simple",
+    "meaning": "đơn giản",
+    "hint": "Easy to understand",
+    "difficulty": "medium"
+  },
+  {
+    "word": "single",
+    "meaning": "đơn, độc thân",
+    "hint": "Only one, or not married",
+    "difficulty": "medium"
+  },
+  {
+    "word": "size",
+    "meaning": "kích cỡ",
+    "hint": "How big something is",
+    "difficulty": "medium"
+  },
+  {
+    "word": "skill",
+    "meaning": "kỹ năng",
+    "hint": "The ability to do something well",
+    "difficulty": "medium"
+  },
+  {
+    "word": "skin",
+    "meaning": "làn da",
+    "hint": "The outside of your body",
+    "difficulty": "medium"
+  },
+  {
+    "word": "smell",
+    "meaning": "ngửi, mùi",
+    "hint": "To notice something with your nose",
+    "difficulty": "medium"
+  },
+  {
+    "word": "soft",
+    "meaning": "mềm",
+    "hint": "Not hard",
+    "difficulty": "medium"
+  },
+  {
+    "word": "solve",
+    "meaning": "giải quyết",
+    "hint": "To find an answer to a problem",
+    "difficulty": "medium"
+  },
+  {
+    "word": "someone",
+    "meaning": "ai đó",
+    "hint": "A person you do not know",
+    "difficulty": "medium"
+  },
+  {
+    "word": "somewhere",
+    "meaning": "một nơi nào đó",
+    "hint": "In or to a place",
+    "difficulty": "medium"
+  },
+  {
+    "word": "sound",
+    "meaning": "âm thanh",
+    "hint": "Something you hear",
+    "difficulty": "medium"
+  },
+  {
+    "word": "south",
+    "meaning": "hướng nam",
+    "hint": "The direction opposite north",
+    "difficulty": "medium"
+  },
+  {
+    "word": "space",
+    "meaning": "không gian, vũ trụ",
+    "hint": "An empty area, or the area beyond Earth",
+    "difficulty": "medium"
+  },
+  {
+    "word": "special",
+    "meaning": "đặc biệt",
+    "hint": "Not ordinary",
+    "difficulty": "medium"
+  },
+  {
+    "word": "speed",
+    "meaning": "tốc độ",
+    "hint": "How fast something moves",
+    "difficulty": "medium"
+  },
+  {
+    "word": "spell",
+    "meaning": "đánh vần",
+    "hint": "To say the letters of a word",
+    "difficulty": "medium"
+  },
+  {
+    "word": "spend",
+    "meaning": "tiêu",
+    "hint": "To use money or time",
+    "difficulty": "medium"
+  },
+  {
+    "word": "spring",
+    "meaning": "mùa xuân",
+    "hint": "The season after winter",
+    "difficulty": "medium"
+  },
+  {
+    "word": "square",
+    "meaning": "hình vuông",
+    "hint": "A shape with four equal sides",
+    "difficulty": "medium"
+  },
+  {
+    "word": "state",
+    "meaning": "bang, tình trạng",
+    "hint": "A part of a country, or a condition",
+    "difficulty": "medium"
+  },
+  {
+    "word": "steal",
+    "meaning": "ăn cắp",
+    "hint": "To take something that is not yours",
+    "difficulty": "medium"
+  },
+  {
+    "word": "step",
+    "meaning": "bước chân",
+    "hint": "One movement of your foot",
+    "difficulty": "medium"
+  },
+  {
+    "word": "store",
+    "meaning": "cửa hàng",
+    "hint": "A shop",
+    "difficulty": "medium"
+  },
+  {
+    "word": "story",
+    "meaning": "câu chuyện",
+    "hint": "A text about events",
+    "difficulty": "medium"
+  },
+  {
+    "word": "straight",
+    "meaning": "thẳng",
+    "hint": "Not bending",
+    "difficulty": "medium"
+  },
+  {
+    "word": "strange",
+    "meaning": "kỳ lạ",
+    "hint": "Unusual or surprising",
+    "difficulty": "medium"
+  },
+  {
+    "word": "strong",
+    "meaning": "mạnh",
+    "hint": "Having a lot of power",
+    "difficulty": "medium"
+  },
+  {
+    "word": "subject",
+    "meaning": "môn học",
+    "hint": "Something you study at school",
+    "difficulty": "medium"
+  },
+  {
+    "word": "success",
+    "meaning": "thành công",
+    "hint": "Getting what you wanted",
+    "difficulty": "medium"
+  },
+  {
+    "word": "suddenly",
+    "meaning": "đột nhiên",
+    "hint": "Quickly and unexpectedly",
+    "difficulty": "medium"
+  },
+  {
+    "word": "suit",
+    "meaning": "bộ com-lê",
+    "hint": "A jacket and trousers of the same cloth",
+    "difficulty": "medium"
+  },
+  {
+    "word": "summer",
+    "meaning": "mùa hè",
+    "hint": "The hottest season",
+    "difficulty": "medium"
+  },
+  {
+    "word": "supermarket",
+    "meaning": "siêu thị",
+    "hint": "A big shop selling food",
+    "difficulty": "medium"
+  },
+  {
+    "word": "sure",
+    "meaning": "chắc chắn",
+    "hint": "Certain",
+    "difficulty": "medium"
+  },
+  {
+    "word": "surprise",
+    "meaning": "sự ngạc nhiên",
+    "hint": "Something you did not expect",
+    "difficulty": "medium"
+  },
+  {
+    "word": "sweet",
+    "meaning": "ngọt",
+    "hint": "Tasting like sugar",
+    "difficulty": "medium"
+  },
+  {
+    "word": "swimming",
+    "meaning": "bơi lội",
+    "hint": "The sport of moving in water",
+    "difficulty": "medium"
+  },
+  {
+    "word": "switch",
+    "meaning": "công tắc",
+    "hint": "You press it to turn a light on or off",
+    "difficulty": "medium"
+  },
+  {
+    "word": "taste",
+    "meaning": "vị, nếm",
+    "hint": "The flavor of food",
+    "difficulty": "medium"
+  },
+  {
+    "word": "terrible",
+    "meaning": "tồi tệ",
+    "hint": "Very bad",
+    "difficulty": "medium"
+  },
+  {
+    "word": "text",
+    "meaning": "văn bản",
+    "hint": "Written words",
+    "difficulty": "medium"
+  },
+  {
+    "word": "theater",
+    "meaning": "nhà hát",
+    "hint": "A place where you watch plays",
+    "difficulty": "medium"
+  },
+  {
+    "word": "thin",
+    "meaning": "gầy, mỏng",
+    "hint": "Not fat or not thick",
+    "difficulty": "medium"
+  },
+  {
+    "word": "throw",
+    "meaning": "ném",
+    "hint": "To send something through the air",
+    "difficulty": "medium"
+  },
+  {
+    "word": "toilet",
+    "meaning": "nhà vệ sinh",
+    "hint": "A room or bowl for the body's waste",
+    "difficulty": "medium"
+  },
+  {
+    "word": "tool",
+    "meaning": "dụng cụ",
+    "hint": "Something you use to do work",
+    "difficulty": "medium"
+  },
+  {
+    "word": "tour",
+    "meaning": "chuyến tham quan",
+    "hint": "A trip to see places",
+    "difficulty": "medium"
+  },
+  {
+    "word": "tourist",
+    "meaning": "khách du lịch",
+    "hint": "A person who travels for fun",
+    "difficulty": "medium"
+  },
+  {
+    "word": "traffic",
+    "meaning": "giao thông",
+    "hint": "Cars and vehicles on the road",
+    "difficulty": "medium"
+  },
+  {
+    "word": "travel",
+    "meaning": "du lịch",
+    "hint": "To go from one place to another",
+    "difficulty": "medium"
+  },
+  {
+    "word": "trip",
+    "meaning": "chuyến đi",
+    "hint": "A short journey",
+    "difficulty": "medium"
+  },
+  {
+    "word": "trouble",
+    "meaning": "rắc rối",
+    "hint": "Problems or difficulty",
+    "difficulty": "medium"
+  },
+  {
+    "word": "true",
+    "meaning": "đúng sự thật",
+    "hint": "Correct and real",
+    "difficulty": "medium"
+  },
+  {
+    "word": "trust",
+    "meaning": "tin cậy",
+    "hint": "To believe in someone",
+    "difficulty": "medium"
+  },
+  {
+    "word": "truth",
+    "meaning": "sự thật",
+    "hint": "What is real and correct",
+    "difficulty": "medium"
+  },
+  {
+    "word": "twice",
+    "meaning": "hai lần",
+    "hint": "Two times",
+    "difficulty": "medium"
+  },
+  {
+    "word": "type",
+    "meaning": "loại",
+    "hint": "A kind of something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "understand",
+    "meaning": "hiểu",
+    "hint": "To know the meaning",
+    "difficulty": "medium"
+  },
+  {
+    "word": "university",
+    "meaning": "trường đại học",
+    "hint": "A place for higher education",
+    "difficulty": "medium"
+  },
+  {
+    "word": "unusual",
+    "meaning": "khác thường",
+    "hint": "Not normal",
+    "difficulty": "medium"
+  },
+  {
+    "word": "useful",
+    "meaning": "hữu ích",
+    "hint": "Good for doing something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "usual",
+    "meaning": "thường lệ",
+    "hint": "Normal or common",
+    "difficulty": "medium"
+  },
+  {
+    "word": "view",
+    "meaning": "tầm nhìn",
+    "hint": "What you can see from a place",
+    "difficulty": "medium"
+  },
+  {
+    "word": "voice",
+    "meaning": "giọng nói",
+    "hint": "The sound you make when you speak",
+    "difficulty": "medium"
+  },
+  {
+    "word": "war",
+    "meaning": "chiến tranh",
+    "hint": "A fight between countries",
+    "difficulty": "medium"
+  },
+  {
+    "word": "waste",
+    "meaning": "lãng phí",
+    "hint": "To use too much of something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "weekend",
+    "meaning": "cuối tuần",
+    "hint": "Saturday and Sunday",
+    "difficulty": "medium"
+  },
+  {
+    "word": "weight",
+    "meaning": "cân nặng",
+    "hint": "How heavy something is",
+    "difficulty": "medium"
+  },
+  {
+    "word": "west",
+    "meaning": "hướng tây",
+    "hint": "Where the sun goes down",
+    "difficulty": "medium"
+  },
+  {
+    "word": "wet",
+    "meaning": "ướt",
+    "hint": "Covered with water",
+    "difficulty": "medium"
+  },
+  {
+    "word": "whole",
+    "meaning": "toàn bộ",
+    "hint": "All of something",
+    "difficulty": "medium"
+  },
+  {
+    "word": "wide",
+    "meaning": "rộng",
+    "hint": "Large from side to side",
+    "difficulty": "medium"
+  },
+  {
+    "word": "wild",
+    "meaning": "hoang dã",
+    "hint": "Living in nature",
+    "difficulty": "medium"
+  },
+  {
+    "word": "win",
+    "meaning": "thắng",
+    "hint": "To be the best in a game",
+    "difficulty": "medium"
+  },
+  {
+    "word": "winter",
+    "meaning": "mùa đông",
+    "hint": "The coldest season",
+    "difficulty": "medium"
+  },
+  {
+    "word": "wish",
+    "meaning": "ước",
+    "hint": "To want something to happen",
+    "difficulty": "medium"
+  },
+  {
+    "word": "wonderful",
+    "meaning": "tuyệt diệu",
+    "hint": "Very good",
+    "difficulty": "medium"
+  },
+  {
+    "word": "wood",
+    "meaning": "gỗ",
+    "hint": "The hard part of a tree",
+    "difficulty": "medium"
+  },
+  {
+    "word": "worried",
+    "meaning": "lo lắng",
+    "hint": "Thinking about problems",
+    "difficulty": "medium"
+  },
+  {
+    "word": "achieve",
+    "meaning": "đạt được",
+    "hint": "To succeed in doing something difficult",
+    "difficulty": "hard"
+  },
+  {
+    "word": "achievement",
+    "meaning": "thành tựu",
+    "hint": "Something good that you have done",
+    "difficulty": "hard"
+  },
+  {
+    "word": "active",
+    "meaning": "năng động",
+    "hint": "Always busy or doing things",
+    "difficulty": "hard"
+  },
+  {
+    "word": "actually",
+    "meaning": "thực ra",
+    "hint": "In fact",
+    "difficulty": "hard"
+  },
+  {
+    "word": "addition",
+    "meaning": "sự bổ sung",
+    "hint": "Something that is added",
+    "difficulty": "hard"
+  },
+  {
+    "word": "admire",
+    "meaning": "ngưỡng mộ",
+    "hint": "To respect and like someone",
+    "difficulty": "hard"
+  },
+  {
+    "word": "admit",
+    "meaning": "thừa nhận",
+    "hint": "To say that something is true",
+    "difficulty": "hard"
+  },
+  {
+    "word": "adventure",
+    "meaning": "cuộc phiêu lưu",
+    "hint": "An exciting and unusual experience",
+    "difficulty": "hard"
+  },
+  {
+    "word": "advertise",
+    "meaning": "quảng cáo",
+    "hint": "To tell people about a product",
+    "difficulty": "hard"
+  },
+  {
+    "word": "affect",
+    "meaning": "ảnh hưởng",
+    "hint": "To change something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "afford",
+    "meaning": "đủ khả năng chi trả",
+    "hint": "To have enough money to buy something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "agency",
+    "meaning": "cơ quan, đại lý",
+    "hint": "A business that provides a service",
+    "difficulty": "hard"
+  },
+  {
+    "word": "aim",
+    "meaning": "mục tiêu",
+    "hint": "What you want to achieve",
+    "difficulty": "hard"
+  },
+  {
+    "word": "allow",
+    "meaning": "cho phép",
+    "hint": "To let someone do something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "apologize",
+    "meaning": "xin lỗi",
+    "hint": "To say sorry",
+    "difficulty": "hard"
+  },
+  {
+    "word": "appear",
+    "meaning": "xuất hiện",
+    "hint": "To come into view",
+    "difficulty": "hard"
+  },
+  {
+    "word": "appearance",
+    "meaning": "diện mạo",
+    "hint": "The way someone or something looks",
+    "difficulty": "hard"
+  },
+  {
+    "word": "apply",
+    "meaning": "nộp đơn, áp dụng",
+    "hint": "To ask for a job, or to use something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "approach",
+    "meaning": "tiếp cận",
+    "hint": "To come near, or a way of doing something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "argue",
+    "meaning": "cãi nhau",
+    "hint": "To speak angrily with someone",
+    "difficulty": "hard"
+  },
+  {
+    "word": "argument",
+    "meaning": "cuộc tranh cãi",
+    "hint": "An angry talk between people",
+    "difficulty": "hard"
+  },
+  {
+    "word": "army",
+    "meaning": "quân đội",
+    "hint": "A large group of soldiers",
+    "difficulty": "hard"
+  },
+  {
+    "word": "arrange",
+    "meaning": "sắp xếp",
+    "hint": "To plan or organize",
+    "difficulty": "hard"
+  },
+  {
+    "word": "attitude",
+    "meaning": "thái độ",
+    "hint": "The way you think or feel about something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "attract",
+    "meaning": "thu hút",
+    "hint": "To make someone interested",
+    "difficulty": "hard"
+  },
+  {
+    "word": "audience",
+    "meaning": "khán giả",
+    "hint": "People who watch or listen to a show",
+    "difficulty": "hard"
+  },
+  {
+    "word": "available",
+    "meaning": "có sẵn",
+    "hint": "Ready for you to use or get",
+    "difficulty": "hard"
+  },
+  {
+    "word": "average",
+    "meaning": "trung bình",
+    "hint": "Normal or typical",
+    "difficulty": "hard"
+  },
+  {
+    "word": "avoid",
+    "meaning": "tránh",
+    "hint": "To stay away from something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "award",
+    "meaning": "giải thưởng",
+    "hint": "A prize for something good",
+    "difficulty": "hard"
+  },
+  {
+    "word": "aware",
+    "meaning": "nhận thức",
+    "hint": "Knowing that something exists",
+    "difficulty": "hard"
+  },
+  {
+    "word": "background",
+    "meaning": "bối cảnh",
+    "hint": "The things behind the main part of a picture or story",
+    "difficulty": "hard"
+  },
+  {
+    "word": "balance",
+    "meaning": "sự cân bằng",
+    "hint": "A steady position or state",
+    "difficulty": "hard"
+  },
+  {
+    "word": "base",
+    "meaning": "căn cứ, dựa trên",
+    "hint": "The bottom part, or to use as a start",
+    "difficulty": "hard"
+  },
+  {
+    "word": "beat",
+    "meaning": "đánh bại",
+    "hint": "To win against someone",
+    "difficulty": "hard"
+  },
+  {
+    "word": "behave",
+    "meaning": "cư xử",
+    "hint": "To act in a certain way",
+    "difficulty": "hard"
+  },
+  {
+    "word": "behavior",
+    "meaning": "hành vi",
+    "hint": "The way a person acts",
+    "difficulty": "hard"
+  },
+  {
+    "word": "belong",
+    "meaning": "thuộc về",
+    "hint": "To be owned by someone",
+    "difficulty": "hard"
+  },
+  {
+    "word": "benefit",
+    "meaning": "lợi ích",
+    "hint": "A good result from something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "billion",
+    "meaning": "tỷ",
+    "hint": "A thousand million",
+    "difficulty": "hard"
+  },
+  {
+    "word": "blame",
+    "meaning": "đổ lỗi",
+    "hint": "To say that someone did something wrong",
+    "difficulty": "hard"
+  },
+  {
+    "word": "brain",
+    "meaning": "bộ não",
+    "hint": "The part inside your head that thinks",
+    "difficulty": "hard"
+  },
+  {
+    "word": "brand",
+    "meaning": "thương hiệu",
+    "hint": "The name of a product made by a company",
+    "difficulty": "hard"
+  },
+  {
+    "word": "breathe",
+    "meaning": "thở",
+    "hint": "To take air into your body",
+    "difficulty": "hard"
+  },
+  {
+    "word": "brilliant",
+    "meaning": "xuất sắc",
+    "hint": "Very clever or very good",
+    "difficulty": "hard"
+  },
+  {
+    "word": "broadcast",
+    "meaning": "phát sóng",
+    "hint": "To send out a TV or radio program",
+    "difficulty": "hard"
+  },
+  {
+    "word": "budget",
+    "meaning": "ngân sách",
+    "hint": "A plan for how to spend money",
+    "difficulty": "hard"
+  },
+  {
+    "word": "capable",
+    "meaning": "có khả năng",
+    "hint": "Able to do something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "career",
+    "meaning": "sự nghiệp",
+    "hint": "The work you do for much of your life",
+    "difficulty": "hard"
+  },
+  {
+    "word": "case",
+    "meaning": "trường hợp",
+    "hint": "A situation or example",
+    "difficulty": "hard"
+  },
+  {
+    "word": "cause",
+    "meaning": "nguyên nhân",
+    "hint": "The reason something happens",
+    "difficulty": "hard"
+  },
+  {
+    "word": "certain",
+    "meaning": "chắc chắn",
+    "hint": "Completely sure",
+    "difficulty": "hard"
+  },
+  {
+    "word": "challenge",
+    "meaning": "thử thách",
+    "hint": "Something difficult that tests you",
+    "difficulty": "hard"
+  },
+  {
+    "word": "character",
+    "meaning": "nhân vật, tính cách",
+    "hint": "A person in a story, or a person's nature",
+    "difficulty": "hard"
+  },
+  {
+    "word": "charge",
+    "meaning": "tính phí",
+    "hint": "To ask for money",
+    "difficulty": "hard"
+  },
+  {
+    "word": "citizen",
+    "meaning": "công dân",
+    "hint": "A person who belongs to a country",
+    "difficulty": "hard"
+  },
+  {
+    "word": "claim",
+    "meaning": "tuyên bố",
+    "hint": "To say that something is true",
+    "difficulty": "hard"
+  },
+  {
+    "word": "client",
+    "meaning": "khách hàng",
+    "hint": "A person who pays for a service",
+    "difficulty": "hard"
+  },
+  {
+    "word": "climate",
+    "meaning": "khí hậu",
+    "hint": "The usual weather in a place",
+    "difficulty": "hard"
+  },
+  {
+    "word": "code",
+    "meaning": "mã",
+    "hint": "A system of signs or rules",
+    "difficulty": "hard"
+  },
+  {
+    "word": "colleague",
+    "meaning": "đồng nghiệp",
+    "hint": "A person you work with",
+    "difficulty": "hard"
+  },
+  {
+    "word": "comment",
+    "meaning": "bình luận",
+    "hint": "Something you say about a topic",
+    "difficulty": "hard"
+  },
+  {
+    "word": "communicate",
+    "meaning": "giao tiếp",
+    "hint": "To share information with others",
+    "difficulty": "hard"
+  },
+  {
+    "word": "community",
+    "meaning": "cộng đồng",
+    "hint": "The people living in a place",
+    "difficulty": "hard"
+  },
+  {
+    "word": "complain",
+    "meaning": "phàn nàn",
+    "hint": "To say that you are not happy",
+    "difficulty": "hard"
+  },
+  {
+    "word": "complicated",
+    "meaning": "phức tạp",
+    "hint": "Difficult to understand",
+    "difficulty": "hard"
+  },
+  {
+    "word": "concentrate",
+    "meaning": "tập trung",
+    "hint": "To think hard about one thing",
+    "difficulty": "hard"
+  },
+  {
+    "word": "concern",
+    "meaning": "mối lo ngại",
+    "hint": "A worry about something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "conclude",
+    "meaning": "kết luận",
+    "hint": "To decide after thinking",
+    "difficulty": "hard"
+  },
+  {
+    "word": "condition",
+    "meaning": "điều kiện",
+    "hint": "The state of something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "confident",
+    "meaning": "tự tin",
+    "hint": "Sure of yourself",
+    "difficulty": "hard"
+  },
+  {
+    "word": "confirm",
+    "meaning": "xác nhận",
+    "hint": "To say that something is true",
+    "difficulty": "hard"
+  },
+  {
+    "word": "conflict",
+    "meaning": "xung đột",
+    "hint": "A serious disagreement",
+    "difficulty": "hard"
+  },
+  {
+    "word": "connect",
+    "meaning": "kết nối",
+    "hint": "To join two things",
+    "difficulty": "hard"
+  },
+  {
+    "word": "consider",
+    "meaning": "cân nhắc",
+    "hint": "To think carefully about something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "contact",
+    "meaning": "liên lạc",
+    "hint": "To get in touch with someone",
+    "difficulty": "hard"
+  },
+  {
+    "word": "contain",
+    "meaning": "chứa đựng",
+    "hint": "To have something inside",
+    "difficulty": "hard"
+  },
+  {
+    "word": "content",
+    "meaning": "nội dung",
+    "hint": "What is inside something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "control",
+    "meaning": "kiểm soát",
+    "hint": "To have power over something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "convince",
+    "meaning": "thuyết phục",
+    "hint": "To make someone believe something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "court",
+    "meaning": "tòa án",
+    "hint": "A place where legal cases are decided",
+    "difficulty": "hard"
+  },
+  {
+    "word": "crash",
+    "meaning": "va chạm",
+    "hint": "An accident when vehicles hit something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "create",
+    "meaning": "tạo ra",
+    "hint": "To make something new",
+    "difficulty": "hard"
+  },
+  {
+    "word": "creative",
+    "meaning": "sáng tạo",
+    "hint": "Good at thinking of new ideas",
+    "difficulty": "hard"
+  },
+  {
+    "word": "crime",
+    "meaning": "tội phạm",
+    "hint": "An act that breaks the law",
+    "difficulty": "hard"
+  },
+  {
+    "word": "crisis",
+    "meaning": "cuộc khủng hoảng",
+    "hint": "A very difficult or dangerous time",
+    "difficulty": "hard"
+  },
+  {
+    "word": "criticize",
+    "meaning": "chỉ trích",
+    "hint": "To say what is wrong with something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "current",
+    "meaning": "hiện tại",
+    "hint": "Happening now",
+    "difficulty": "hard"
+  },
+  {
+    "word": "damage",
+    "meaning": "thiệt hại",
+    "hint": "Harm done to something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "deal",
+    "meaning": "thỏa thuận",
+    "hint": "An agreement",
+    "difficulty": "hard"
+  },
+  {
+    "word": "debate",
+    "meaning": "cuộc tranh luận",
+    "hint": "A formal discussion",
+    "difficulty": "hard"
+  },
+  {
+    "word": "define",
+    "meaning": "định nghĩa",
+    "hint": "To explain what a word means",
+    "difficulty": "hard"
+  },
+  {
+    "word": "delay",
+    "meaning": "trì hoãn",
+    "hint": "To make something late",
+    "difficulty": "hard"
+  },
+  {
+    "word": "demand",
+    "meaning": "nhu cầu",
+    "hint": "A strong request for something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "depend",
+    "meaning": "phụ thuộc",
+    "hint": "To be decided by something else",
+    "difficulty": "hard"
+  },
+  {
+    "word": "describe",
+    "meaning": "mô tả",
+    "hint": "To say what something is like",
+    "difficulty": "hard"
+  },
+  {
+    "word": "deserve",
+    "meaning": "xứng đáng",
+    "hint": "To have earned something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "design",
+    "meaning": "thiết kế",
+    "hint": "To plan how something will look",
+    "difficulty": "hard"
+  },
+  {
+    "word": "detail",
+    "meaning": "chi tiết",
+    "hint": "A small piece of information",
+    "difficulty": "hard"
+  },
+  {
+    "word": "develop",
+    "meaning": "phát triển",
+    "hint": "To grow or change",
+    "difficulty": "hard"
+  },
+  {
+    "word": "direct",
+    "meaning": "trực tiếp",
+    "hint": "Going straight without stopping",
+    "difficulty": "hard"
+  },
+  {
+    "word": "director",
+    "meaning": "đạo diễn, giám đốc",
+    "hint": "A person who manages a film or a company",
+    "difficulty": "hard"
+  },
+  {
+    "word": "disappear",
+    "meaning": "biến mất",
+    "hint": "To go out of sight",
+    "difficulty": "hard"
+  },
+  {
+    "word": "disaster",
+    "meaning": "thảm họa",
+    "hint": "A very bad event",
+    "difficulty": "hard"
+  },
+  {
+    "word": "discover",
+    "meaning": "khám phá",
+    "hint": "To find something for the first time",
+    "difficulty": "hard"
+  },
+  {
+    "word": "disease",
+    "meaning": "bệnh",
+    "hint": "An illness",
+    "difficulty": "hard"
+  },
+  {
+    "word": "distance",
+    "meaning": "khoảng cách",
+    "hint": "The space between two places",
+    "difficulty": "hard"
+  },
+  {
+    "word": "divide",
+    "meaning": "chia",
+    "hint": "To separate into parts",
+    "difficulty": "hard"
+  },
+  {
+    "word": "doubt",
+    "meaning": "nghi ngờ",
+    "hint": "A feeling of not being sure",
+    "difficulty": "hard"
+  },
+  {
+    "word": "economy",
+    "meaning": "nền kinh tế",
+    "hint": "The system of money and trade in a country",
+    "difficulty": "hard"
+  },
+  {
+    "word": "edge",
+    "meaning": "mép, rìa",
+    "hint": "The outside part of something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "effect",
+    "meaning": "hiệu quả, tác động",
+    "hint": "A change caused by something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "effort",
+    "meaning": "nỗ lực",
+    "hint": "Hard work to do something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "election",
+    "meaning": "cuộc bầu cử",
+    "hint": "A time when people vote",
+    "difficulty": "hard"
+  },
+  {
+    "word": "emergency",
+    "meaning": "tình huống khẩn cấp",
+    "hint": "A sudden dangerous situation",
+    "difficulty": "hard"
+  },
+  {
+    "word": "emotion",
+    "meaning": "cảm xúc",
+    "hint": "A strong feeling",
+    "difficulty": "hard"
+  },
+  {
+    "word": "encourage",
+    "meaning": "khuyến khích",
+    "hint": "To give someone hope or support",
+    "difficulty": "hard"
+  },
+  {
+    "word": "enemy",
+    "meaning": "kẻ thù",
+    "hint": "A person who wants to harm you",
+    "difficulty": "hard"
+  },
+  {
+    "word": "entire",
+    "meaning": "toàn bộ",
+    "hint": "Whole",
+    "difficulty": "hard"
+  },
+  {
+    "word": "equipment",
+    "meaning": "thiết bị",
+    "hint": "Tools needed for an activity",
+    "difficulty": "hard"
+  },
+  {
+    "word": "error",
+    "meaning": "lỗi sai",
+    "hint": "A mistake",
+    "difficulty": "hard"
+  },
+  {
+    "word": "essential",
+    "meaning": "thiết yếu",
+    "hint": "Absolutely necessary",
+    "difficulty": "hard"
+  },
+  {
+    "word": "evidence",
+    "meaning": "bằng chứng",
+    "hint": "Facts that show something is true",
+    "difficulty": "hard"
+  },
+  {
+    "word": "exact",
+    "meaning": "chính xác",
+    "hint": "Completely correct",
+    "difficulty": "hard"
+  },
+  {
+    "word": "experience",
+    "meaning": "kinh nghiệm",
+    "hint": "Knowledge from doing things",
+    "difficulty": "hard"
+  },
+  {
+    "word": "experiment",
+    "meaning": "thí nghiệm",
+    "hint": "A test in science",
+    "difficulty": "hard"
+  },
+  {
+    "word": "expert",
+    "meaning": "chuyên gia",
+    "hint": "A person who knows a lot about something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "express",
+    "meaning": "bày tỏ",
+    "hint": "To show a feeling or opinion",
+    "difficulty": "hard"
+  },
+  {
+    "word": "extra",
+    "meaning": "thêm",
+    "hint": "More than usual",
+    "difficulty": "hard"
+  },
+  {
+    "word": "extreme",
+    "meaning": "cực độ",
+    "hint": "Very great in degree",
+    "difficulty": "hard"
+  },
+  {
+    "word": "factor",
+    "meaning": "yếu tố",
+    "hint": "One thing that influences a result",
+    "difficulty": "hard"
+  },
+  {
+    "word": "failure",
+    "meaning": "sự thất bại",
+    "hint": "Not succeeding",
+    "difficulty": "hard"
+  },
+  {
+    "word": "fair",
+    "meaning": "công bằng",
+    "hint": "Treating people in the same way",
+    "difficulty": "hard"
+  },
+  {
+    "word": "faith",
+    "meaning": "niềm tin",
+    "hint": "Strong belief or trust",
+    "difficulty": "hard"
+  },
+  {
+    "word": "familiar",
+    "meaning": "quen thuộc",
+    "hint": "Well known to you",
+    "difficulty": "hard"
+  },
+  {
+    "word": "fear",
+    "meaning": "nỗi sợ",
+    "hint": "The feeling you have when in danger",
+    "difficulty": "hard"
+  },
+  {
+    "word": "feature",
+    "meaning": "đặc điểm",
+    "hint": "An important part of something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "figure",
+    "meaning": "con số, hình dáng",
+    "hint": "A number, or the shape of a body",
+    "difficulty": "hard"
+  },
+  {
+    "word": "flow",
+    "meaning": "chảy",
+    "hint": "To move in a smooth way",
+    "difficulty": "hard"
+  },
+  {
+    "word": "focus",
+    "meaning": "tập trung",
+    "hint": "To give all your attention",
+    "difficulty": "hard"
+  },
+  {
+    "word": "force",
+    "meaning": "lực, ép buộc",
+    "hint": "Physical power, or to make someone do something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "forever",
+    "meaning": "mãi mãi",
+    "hint": "For all time",
+    "difficulty": "hard"
+  },
+  {
+    "word": "formal",
+    "meaning": "trang trọng",
+    "hint": "Serious and official",
+    "difficulty": "hard"
+  },
+  {
+    "word": "freedom",
+    "meaning": "tự do",
+    "hint": "The right to do what you want",
+    "difficulty": "hard"
+  },
+  {
+    "word": "function",
+    "meaning": "chức năng",
+    "hint": "The purpose of something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "gain",
+    "meaning": "đạt được",
+    "hint": "To get something useful",
+    "difficulty": "hard"
+  },
+  {
+    "word": "gather",
+    "meaning": "tập hợp",
+    "hint": "To bring together",
+    "difficulty": "hard"
+  },
+  {
+    "word": "global",
+    "meaning": "toàn cầu",
+    "hint": "Of the whole world",
+    "difficulty": "hard"
+  },
+  {
+    "word": "grade",
+    "meaning": "điểm số, lớp",
+    "hint": "A mark in school, or a level",
+    "difficulty": "hard"
+  },
+  {
+    "word": "graduate",
+    "meaning": "tốt nghiệp",
+    "hint": "To finish a university course",
+    "difficulty": "hard"
+  },
+  {
+    "word": "handle",
+    "meaning": "xử lý",
+    "hint": "To deal with something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "harm",
+    "meaning": "gây hại",
+    "hint": "To hurt or damage",
+    "difficulty": "hard"
+  },
+  {
+    "word": "hide",
+    "meaning": "giấu",
+    "hint": "To put out of sight",
+    "difficulty": "hard"
+  },
+  {
+    "word": "huge",
+    "meaning": "khổng lồ",
+    "hint": "Extremely large",
+    "difficulty": "hard"
+  },
+  {
+    "word": "human",
+    "meaning": "con người",
+    "hint": "A person",
+    "difficulty": "hard"
+  },
+  {
+    "word": "identify",
+    "meaning": "nhận ra",
+    "hint": "To say who or what something is",
+    "difficulty": "hard"
+  },
+  {
+    "word": "image",
+    "meaning": "hình ảnh",
+    "hint": "A picture or a view in the mind",
+    "difficulty": "hard"
+  },
+  {
+    "word": "imagine",
+    "meaning": "tưởng tượng",
+    "hint": "To form a picture in your mind",
+    "difficulty": "hard"
+  },
+  {
+    "word": "immediate",
+    "meaning": "ngay lập tức",
+    "hint": "Happening at once",
+    "difficulty": "hard"
+  },
+  {
+    "word": "impact",
+    "meaning": "tác động",
+    "hint": "A strong effect",
+    "difficulty": "hard"
+  },
+  {
+    "word": "improve",
+    "meaning": "cải thiện",
+    "hint": "To make better",
+    "difficulty": "hard"
+  },
+  {
+    "word": "income",
+    "meaning": "thu nhập",
+    "hint": "Money you earn",
+    "difficulty": "hard"
+  },
+  {
+    "word": "increase",
+    "meaning": "tăng lên",
+    "hint": "To become more",
+    "difficulty": "hard"
+  },
+  {
+    "word": "independent",
+    "meaning": "độc lập",
+    "hint": "Not needing help from others",
+    "difficulty": "hard"
+  },
+  {
+    "word": "industry",
+    "meaning": "ngành công nghiệp",
+    "hint": "The making of goods in factories",
+    "difficulty": "hard"
+  },
+  {
+    "word": "influence",
+    "meaning": "ảnh hưởng",
+    "hint": "The power to change people or things",
+    "difficulty": "hard"
+  },
+  {
+    "word": "instruction",
+    "meaning": "hướng dẫn",
+    "hint": "Information about how to do something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "international",
+    "meaning": "quốc tế",
+    "hint": "Between different countries",
+    "difficulty": "hard"
+  },
+  {
+    "word": "interview",
+    "meaning": "phỏng vấn",
+    "hint": "A formal meeting to ask questions",
+    "difficulty": "hard"
+  },
+  {
+    "word": "invent",
+    "meaning": "phát minh",
+    "hint": "To create something new",
+    "difficulty": "hard"
+  },
+  {
+    "word": "involve",
+    "meaning": "liên quan",
+    "hint": "To include as a part",
+    "difficulty": "hard"
+  },
+  {
+    "word": "issue",
+    "meaning": "vấn đề",
+    "hint": "An important topic",
+    "difficulty": "hard"
+  },
+  {
+    "word": "item",
+    "meaning": "món đồ",
+    "hint": "One thing in a list or group",
+    "difficulty": "hard"
+  },
+  {
+    "word": "journalist",
+    "meaning": "nhà báo",
+    "hint": "A person who writes news",
+    "difficulty": "hard"
+  },
+  {
+    "word": "knowledge",
+    "meaning": "kiến thức",
+    "hint": "What you know",
+    "difficulty": "hard"
+  },
+  {
+    "word": "lack",
+    "meaning": "thiếu",
+    "hint": "Not having enough of something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "law",
+    "meaning": "luật",
+    "hint": "A rule made by the government",
+    "difficulty": "hard"
+  },
+  {
+    "word": "leader",
+    "meaning": "người lãnh đạo",
+    "hint": "A person who guides a group",
+    "difficulty": "hard"
+  },
+  {
+    "word": "legal",
+    "meaning": "hợp pháp",
+    "hint": "Allowed by law",
+    "difficulty": "hard"
+  },
+  {
+    "word": "level",
+    "meaning": "cấp độ",
+    "hint": "A stage or height",
+    "difficulty": "hard"
+  },
+  {
+    "word": "likely",
+    "meaning": "có khả năng",
+    "hint": "Probably going to happen",
+    "difficulty": "hard"
+  },
+  {
+    "word": "limit",
+    "meaning": "giới hạn",
+    "hint": "The most that is allowed",
+    "difficulty": "hard"
+  },
+  {
+    "word": "link",
+    "meaning": "liên kết",
+    "hint": "A connection between things",
+    "difficulty": "hard"
+  },
+  {
+    "word": "major",
+    "meaning": "chủ yếu",
+    "hint": "Very important",
+    "difficulty": "hard"
+  },
+  {
+    "word": "manage",
+    "meaning": "quản lý",
+    "hint": "To control or be in charge of",
+    "difficulty": "hard"
+  },
+  {
+    "word": "mean",
+    "meaning": "có nghĩa",
+    "hint": "To have a certain meaning",
+    "difficulty": "hard"
+  },
+  {
+    "word": "measure",
+    "meaning": "đo lường",
+    "hint": "To find the size of something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "mention",
+    "meaning": "đề cập",
+    "hint": "To say something briefly",
+    "difficulty": "hard"
+  },
+  {
+    "word": "method",
+    "meaning": "phương pháp",
+    "hint": "A way of doing something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "military",
+    "meaning": "quân sự",
+    "hint": "Of the army",
+    "difficulty": "hard"
+  },
+  {
+    "word": "mood",
+    "meaning": "tâm trạng",
+    "hint": "The way you feel",
+    "difficulty": "hard"
+  },
+  {
+    "word": "nation",
+    "meaning": "quốc gia",
+    "hint": "A country and its people",
+    "difficulty": "hard"
+  },
+  {
+    "word": "nature",
+    "meaning": "thiên nhiên",
+    "hint": "Plants, animals and the natural world",
+    "difficulty": "hard"
+  },
+  {
+    "word": "necessary",
+    "meaning": "cần thiết",
+    "hint": "Needed",
+    "difficulty": "hard"
+  },
+  {
+    "word": "negative",
+    "meaning": "tiêu cực",
+    "hint": "Bad or not helpful",
+    "difficulty": "hard"
+  },
+  {
+    "word": "neither",
+    "meaning": "không cái nào",
+    "hint": "Not one and not the other",
+    "difficulty": "hard"
+  },
+  {
+    "word": "network",
+    "meaning": "mạng lưới",
+    "hint": "A system of connected things",
+    "difficulty": "hard"
+  },
+  {
+    "word": "normal",
+    "meaning": "bình thường",
+    "hint": "Usual and expected",
+    "difficulty": "hard"
+  },
+  {
+    "word": "novel",
+    "meaning": "tiểu thuyết",
+    "hint": "A long written story",
+    "difficulty": "hard"
+  },
+  {
+    "word": "object",
+    "meaning": "đồ vật, phản đối",
+    "hint": "A thing, or to say you disagree",
+    "difficulty": "hard"
+  },
+  {
+    "word": "obvious",
+    "meaning": "rõ ràng",
+    "hint": "Easy to see or understand",
+    "difficulty": "hard"
+  },
+  {
+    "word": "official",
+    "meaning": "chính thức",
+    "hint": "Approved by those in charge",
+    "difficulty": "hard"
+  },
+  {
+    "word": "opinion",
+    "meaning": "ý kiến",
+    "hint": "What you think about something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "opportunity",
+    "meaning": "cơ hội",
+    "hint": "A good chance to do something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "opposite",
+    "meaning": "đối diện",
+    "hint": "Completely different or facing",
+    "difficulty": "hard"
+  },
+  {
+    "word": "option",
+    "meaning": "lựa chọn",
+    "hint": "Something you can choose",
+    "difficulty": "hard"
+  },
+  {
+    "word": "organize",
+    "meaning": "tổ chức",
+    "hint": "To arrange things well",
+    "difficulty": "hard"
+  },
+  {
+    "word": "overall",
+    "meaning": "nhìn chung",
+    "hint": "Taking everything into account",
+    "difficulty": "hard"
+  },
+  {
+    "word": "own",
+    "meaning": "sở hữu",
+    "hint": "To have something that belongs to you",
+    "difficulty": "hard"
+  },
+  {
+    "word": "participate",
+    "meaning": "tham gia",
+    "hint": "To take part in something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "particular",
+    "meaning": "cụ thể",
+    "hint": "Special or specific",
+    "difficulty": "hard"
+  },
+  {
+    "word": "peace",
+    "meaning": "hòa bình",
+    "hint": "A time without war",
+    "difficulty": "hard"
+  },
+  {
+    "word": "perform",
+    "meaning": "biểu diễn",
+    "hint": "To do something in front of people",
+    "difficulty": "hard"
+  },
+  {
+    "word": "period",
+    "meaning": "giai đoạn",
+    "hint": "A length of time",
+    "difficulty": "hard"
+  },
+  {
+    "word": "personal",
+    "meaning": "cá nhân",
+    "hint": "Belonging to one person",
+    "difficulty": "hard"
+  },
+  {
+    "word": "physical",
+    "meaning": "thuộc về thể chất",
+    "hint": "Of the body",
+    "difficulty": "hard"
+  },
+  {
+    "word": "policy",
+    "meaning": "chính sách",
+    "hint": "A plan of action",
+    "difficulty": "hard"
+  },
+  {
+    "word": "political",
+    "meaning": "thuộc chính trị",
+    "hint": "About government and power",
+    "difficulty": "hard"
+  },
+  {
+    "word": "positive",
+    "meaning": "tích cực",
+    "hint": "Good and hopeful",
+    "difficulty": "hard"
+  },
+  {
+    "word": "possibility",
+    "meaning": "khả năng",
+    "hint": "Something that may happen",
+    "difficulty": "hard"
+  },
+  {
+    "word": "potential",
+    "meaning": "tiềm năng",
+    "hint": "Able to develop in the future",
+    "difficulty": "hard"
+  },
+  {
+    "word": "power",
+    "meaning": "quyền lực",
+    "hint": "The ability to control things",
+    "difficulty": "hard"
+  },
+  {
+    "word": "pressure",
+    "meaning": "áp lực",
+    "hint": "The feeling of being forced to act",
+    "difficulty": "hard"
+  },
+  {
+    "word": "prevent",
+    "meaning": "ngăn chặn",
+    "hint": "To stop something from happening",
+    "difficulty": "hard"
+  },
+  {
+    "word": "previous",
+    "meaning": "trước đó",
+    "hint": "Coming before",
+    "difficulty": "hard"
+  },
+  {
+    "word": "priority",
+    "meaning": "ưu tiên",
+    "hint": "Something more important than others",
+    "difficulty": "hard"
+  },
+  {
+    "word": "private",
+    "meaning": "riêng tư",
+    "hint": "Not for everyone",
+    "difficulty": "hard"
+  },
+  {
+    "word": "process",
+    "meaning": "quy trình",
+    "hint": "A series of steps",
+    "difficulty": "hard"
+  },
+  {
+    "word": "produce",
+    "meaning": "sản xuất",
+    "hint": "To make something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "profit",
+    "meaning": "lợi nhuận",
+    "hint": "Money made after paying costs",
+    "difficulty": "hard"
+  },
+  {
+    "word": "progress",
+    "meaning": "tiến bộ",
+    "hint": "Movement toward a goal",
+    "difficulty": "hard"
+  },
+  {
+    "word": "properly",
+    "meaning": "đúng cách",
+    "hint": "In the right way",
+    "difficulty": "hard"
+  },
+  {
+    "word": "property",
+    "meaning": "tài sản",
+    "hint": "Things that you own",
+    "difficulty": "hard"
+  },
+  {
+    "word": "prove",
+    "meaning": "chứng minh",
+    "hint": "To show that something is true",
+    "difficulty": "hard"
+  },
+  {
+    "word": "provide",
+    "meaning": "cung cấp",
+    "hint": "To give what is needed",
+    "difficulty": "hard"
+  },
+  {
+    "word": "publish",
+    "meaning": "xuất bản",
+    "hint": "To print for the public",
+    "difficulty": "hard"
+  },
+  {
+    "word": "purpose",
+    "meaning": "mục đích",
+    "hint": "The reason for doing something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "quality",
+    "meaning": "chất lượng",
+    "hint": "How good something is",
+    "difficulty": "hard"
+  },
+  {
+    "word": "quantity",
+    "meaning": "số lượng",
+    "hint": "An amount of something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "race",
+    "meaning": "cuộc đua",
+    "hint": "A competition of speed",
+    "difficulty": "hard"
+  },
+  {
+    "word": "range",
+    "meaning": "phạm vi",
+    "hint": "A set of different things",
+    "difficulty": "hard"
+  },
+  {
+    "word": "rare",
+    "meaning": "hiếm",
+    "hint": "Not found often",
+    "difficulty": "hard"
+  },
+  {
+    "word": "rate",
+    "meaning": "tỷ lệ",
+    "hint": "A speed or a measure",
+    "difficulty": "hard"
+  },
+  {
+    "word": "rather",
+    "meaning": "khá",
+    "hint": "To some degree",
+    "difficulty": "hard"
+  },
+  {
+    "word": "reaction",
+    "meaning": "phản ứng",
+    "hint": "What you do because of something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "recent",
+    "meaning": "gần đây",
+    "hint": "Happening a short time ago",
+    "difficulty": "hard"
+  },
+  {
+    "word": "recognize",
+    "meaning": "nhận ra",
+    "hint": "To know someone or something you saw before",
+    "difficulty": "hard"
+  },
+  {
+    "word": "recommend",
+    "meaning": "đề xuất",
+    "hint": "To say that something is good",
+    "difficulty": "hard"
+  },
+  {
+    "word": "refuse",
+    "meaning": "từ chối",
+    "hint": "To say no",
+    "difficulty": "hard"
+  },
+  {
+    "word": "region",
+    "meaning": "vùng",
+    "hint": "A large area of land",
+    "difficulty": "hard"
+  },
+  {
+    "word": "regret",
+    "meaning": "hối tiếc",
+    "hint": "To feel sorry about something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "regular",
+    "meaning": "đều đặn",
+    "hint": "Happening often and at the same time",
+    "difficulty": "hard"
+  },
+  {
+    "word": "relationship",
+    "meaning": "mối quan hệ",
+    "hint": "The way people are connected",
+    "difficulty": "hard"
+  },
+  {
+    "word": "remain",
+    "meaning": "vẫn còn",
+    "hint": "To stay in the same state",
+    "difficulty": "hard"
+  },
+  {
+    "word": "remove",
+    "meaning": "loại bỏ",
+    "hint": "To take away",
+    "difficulty": "hard"
+  },
+  {
+    "word": "replace",
+    "meaning": "thay thế",
+    "hint": "To put something new in place of old",
+    "difficulty": "hard"
+  },
+  {
+    "word": "represent",
+    "meaning": "đại diện",
+    "hint": "To speak or act for others",
+    "difficulty": "hard"
+  },
+  {
+    "word": "request",
+    "meaning": "yêu cầu",
+    "hint": "To ask for something politely",
+    "difficulty": "hard"
+  },
+  {
+    "word": "require",
+    "meaning": "đòi hỏi",
+    "hint": "To need",
+    "difficulty": "hard"
+  },
+  {
+    "word": "rescue",
+    "meaning": "giải cứu",
+    "hint": "To save someone from danger",
+    "difficulty": "hard"
+  },
+  {
+    "word": "research",
+    "meaning": "nghiên cứu",
+    "hint": "Careful study to find new facts",
+    "difficulty": "hard"
+  },
+  {
+    "word": "resource",
+    "meaning": "tài nguyên",
+    "hint": "Something useful that you can use",
+    "difficulty": "hard"
+  },
+  {
+    "word": "respect",
+    "meaning": "sự tôn trọng",
+    "hint": "A feeling of admiring someone",
+    "difficulty": "hard"
+  },
+  {
+    "word": "respond",
+    "meaning": "phản hồi",
+    "hint": "To answer",
+    "difficulty": "hard"
+  },
+  {
+    "word": "responsible",
+    "meaning": "có trách nhiệm",
+    "hint": "Having a duty to do something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "review",
+    "meaning": "đánh giá",
+    "hint": "To look at something again",
+    "difficulty": "hard"
+  },
+  {
+    "word": "reward",
+    "meaning": "phần thưởng",
+    "hint": "Something given for good work",
+    "difficulty": "hard"
+  },
+  {
+    "word": "risk",
+    "meaning": "rủi ro",
+    "hint": "The chance of something bad happening",
+    "difficulty": "hard"
+  },
+  {
+    "word": "role",
+    "meaning": "vai trò",
+    "hint": "The part someone has in something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "route",
+    "meaning": "tuyến đường",
+    "hint": "The way you take to go somewhere",
+    "difficulty": "hard"
+  },
+  {
+    "word": "select",
+    "meaning": "lựa chọn",
+    "hint": "To choose carefully",
+    "difficulty": "hard"
+  },
+  {
+    "word": "separate",
+    "meaning": "tách ra",
+    "hint": "To divide into parts",
+    "difficulty": "hard"
+  },
+  {
+    "word": "series",
+    "meaning": "loạt",
+    "hint": "A number of things that follow each other",
+    "difficulty": "hard"
+  },
+  {
+    "word": "significant",
+    "meaning": "đáng kể",
+    "hint": "Important",
+    "difficulty": "hard"
+  },
+  {
+    "word": "similar",
+    "meaning": "tương tự",
+    "hint": "Almost the same",
+    "difficulty": "hard"
+  },
+  {
+    "word": "site",
+    "meaning": "địa điểm",
+    "hint": "A place where something happens",
+    "difficulty": "hard"
+  },
+  {
+    "word": "situation",
+    "meaning": "tình huống",
+    "hint": "All the things happening at a time",
+    "difficulty": "hard"
+  },
+  {
+    "word": "skilled",
+    "meaning": "có kỹ năng",
+    "hint": "Having the ability to do something well",
+    "difficulty": "hard"
+  },
+  {
+    "word": "society",
+    "meaning": "xã hội",
+    "hint": "All the people living in a place",
+    "difficulty": "hard"
+  },
+  {
+    "word": "solution",
+    "meaning": "giải pháp",
+    "hint": "An answer to a problem",
+    "difficulty": "hard"
+  },
+  {
+    "word": "source",
+    "meaning": "nguồn",
+    "hint": "Where something comes from",
+    "difficulty": "hard"
+  },
+  {
+    "word": "specific",
+    "meaning": "cụ thể",
+    "hint": "Clear and exact",
+    "difficulty": "hard"
+  },
+  {
+    "word": "spread",
+    "meaning": "lan rộng",
+    "hint": "To cover a larger area",
+    "difficulty": "hard"
+  },
+  {
+    "word": "staff",
+    "meaning": "nhân viên",
+    "hint": "The people who work for a company",
+    "difficulty": "hard"
+  },
+  {
+    "word": "standard",
+    "meaning": "tiêu chuẩn",
+    "hint": "A level of quality",
+    "difficulty": "hard"
+  },
+  {
+    "word": "statement",
+    "meaning": "tuyên bố",
+    "hint": "Something that you say formally",
+    "difficulty": "hard"
+  },
+  {
+    "word": "status",
+    "meaning": "địa vị",
+    "hint": "A position in society",
+    "difficulty": "hard"
+  },
+  {
+    "word": "stress",
+    "meaning": "căng thẳng",
+    "hint": "A feeling of worry",
+    "difficulty": "hard"
+  },
+  {
+    "word": "structure",
+    "meaning": "cấu trúc",
+    "hint": "The way something is built",
+    "difficulty": "hard"
+  },
+  {
+    "word": "style",
+    "meaning": "phong cách",
+    "hint": "A way of doing something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "sudden",
+    "meaning": "đột ngột",
+    "hint": "Happening quickly",
+    "difficulty": "hard"
+  },
+  {
+    "word": "suffer",
+    "meaning": "chịu đựng",
+    "hint": "To feel pain or trouble",
+    "difficulty": "hard"
+  },
+  {
+    "word": "suggest",
+    "meaning": "gợi ý",
+    "hint": "To offer an idea",
+    "difficulty": "hard"
+  },
+  {
+    "word": "supply",
+    "meaning": "cung cấp",
+    "hint": "To give what is needed",
+    "difficulty": "hard"
+  },
+  {
+    "word": "support",
+    "meaning": "ủng hộ",
+    "hint": "To help or agree with someone",
+    "difficulty": "hard"
+  },
+  {
+    "word": "suppose",
+    "meaning": "cho rằng",
+    "hint": "To think that something is true",
+    "difficulty": "hard"
+  },
+  {
+    "word": "surface",
+    "meaning": "bề mặt",
+    "hint": "The outside of something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "survey",
+    "meaning": "khảo sát",
+    "hint": "A set of questions to get opinions",
+    "difficulty": "hard"
+  },
+  {
+    "word": "survive",
+    "meaning": "sống sót",
+    "hint": "To stay alive",
+    "difficulty": "hard"
+  },
+  {
+    "word": "system",
+    "meaning": "hệ thống",
+    "hint": "A set of connected parts",
+    "difficulty": "hard"
+  },
+  {
+    "word": "target",
+    "meaning": "mục tiêu",
+    "hint": "Something you aim at",
+    "difficulty": "hard"
+  },
+  {
+    "word": "task",
+    "meaning": "nhiệm vụ",
+    "hint": "A piece of work",
+    "difficulty": "hard"
+  },
+  {
+    "word": "technique",
+    "meaning": "kỹ thuật",
+    "hint": "A special way of doing something",
+    "difficulty": "hard"
+  },
+  {
+    "word": "technology",
+    "meaning": "công nghệ",
+    "hint": "Machines and methods from science",
+    "difficulty": "hard"
+  },
+  {
+    "word": "temporary",
+    "meaning": "tạm thời",
+    "hint": "Lasting for a short time",
+    "difficulty": "hard"
+  },
+  {
+    "word": "term",
+    "meaning": "thuật ngữ, học kỳ",
+    "hint": "A word or period of time",
+    "difficulty": "hard"
+  },
+  {
+    "word": "transport",
+    "meaning": "vận chuyển",
+    "hint": "To carry people or goods",
+    "difficulty": "hard"
+  },
+  {
+    "word": "treat",
+    "meaning": "đối xử",
+    "hint": "To behave toward someone",
+    "difficulty": "hard"
+  },
+  {
+    "word": "trend",
+    "meaning": "xu hướng",
+    "hint": "A general way things are changing",
+    "difficulty": "hard"
+  },
+  {
+    "word": "typical",
+    "meaning": "điển hình",
+    "hint": "Having the usual qualities",
+    "difficulty": "hard"
+  },
+  {
+    "word": "unique",
+    "meaning": "độc nhất",
+    "hint": "The only one of its kind",
+    "difficulty": "hard"
+  },
+  {
+    "word": "vote",
+    "meaning": "bỏ phiếu",
+    "hint": "To choose in an election",
+    "difficulty": "hard"
+  },
+  {
+    "word": "willing",
+    "meaning": "sẵn lòng",
+    "hint": "Ready to do something",
+    "difficulty": "hard"
+  }
+]
